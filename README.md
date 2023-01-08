@@ -21,7 +21,7 @@ I don't know Japanese myself, so I can only go off machine translations to get a
 |Avian  |Herald   ||Fairy  |Fey
 |Snake  |Drake    ||Night  |Nightmare
 |Drake  |Wyrm     ||Femme  |Fatale             
-|Haunt/Ghost  |Revenant ||Foul   |Anathema/Pariah
+|Haunt/Ghost  |Revenant ||Foul   |Wretch
 
 ## Patches
 ### SMT1
@@ -76,6 +76,7 @@ For the curious, here are my justifications for the changes.
 * **Night → Nightmare** should hopefully need no explanation. I can only assume the official localization shortened it because of character limits, but by now most of the games can handle 9-character strings.
   * To avoid confusion, the "Nightmare" demon can be renamed to "Marre", an older name for the same creature.
 * **Femme → Fatale**. I think this is supposed to mean "femme" in the context of "femme fatale", but I'd rather make that explicit. The feminine ending on "Fatale" combined with the demons all being women should make the connotation clear, I think.
-* **Vile → Wicked**. The Japanese (邪神) means "Evil God" according to Google, so I assume they were using "vile" in the sense of "morally vile". However, I'm going to go out on a limb here and say that the vast majority of people think "gross" when they hear "vile", not "immoral". I initially thought this was related to the Foul race because the words mean the same darn thing. If the emphasis is supposed to be that they're evil, then they should have a word that conveys that unambiguously.
-* **Haunt → Revenant**. This race always confused me a lot. They're different from Undead, somehow, and they're called ghosts, even though they contain obviously corporeal entities like ghouls (and literal ghosts are covered by a different race). I think the idea is that they are the same person who has come back, while Undead are a demon pupetting an unrelated corpse? If so, "Revenant" conveys that.
-* **Foul → Anathema** or **Pariah**. The Japanese (外道) literally means "Wrong Path", but colloquially means heterodoxy or heresy. The idea of these things being heretical by their nature is so interesting, and that's not at all conveyed by just calling them "foul". I'm not actually sure what the best word choice would be; "Anathema" conveys the "heresy" idea better, but is perhaps to abstract and important-sounding. "Failure" could also be a good choice to convey the idea that they're fusion failures and failed demons.
+* **Vile → Wicked**: The Japanese (邪神) means "Evil God" according to Google, so I assume they were using "vile" in the sense of "morally vile". However, I'm going to go out on a limb here and say that the vast majority of people think "gross" when they hear "vile", not "immoral". I initially thought this was related to the Foul race because the words mean the same darn thing. If the emphasis is supposed to be that they're evil, then they should have a word that conveys that unambiguously.
+* **Haunt → Revenant**: This race always confused me a lot. They're different from Undead, somehow, and they're called ghosts, even though they contain obviously corporeal entities like ghouls (and literal ghosts are covered by a different race). I think the idea is that they are the same person who has come back, while Undead are a demon pupetting an unrelated corpse? If so, "Revenant" conveys that.
+* **Foul → Wretch**: As with "Holy", I don't like using adjectives as race names. I feel that "wretch" conveys a stronger image, and better communicates that they are weak, pathetic failures.
+ * Alternative: **Anathema**, **Pariah**, or **Abomination**. The Japanese (外道) literally means "Wrong Path", but colloquially means heterodoxy or heresy. The idea of these things being heretical by their nature is so interesting, and that's not at all conveyed by just calling them "foul". However, I feel like "Anathema" and "Pariah" make them sound too important, which conflicts with their patheticness. "Abomination" would be perfect, but it's way too long.
