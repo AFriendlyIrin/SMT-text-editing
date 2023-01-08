@@ -6,36 +6,22 @@ So, I've taken it upon myself to make patches for the various SMT games that cha
 I don't know Japanese myself, so I can only go off machine translations to get an idea of the original race names. I'm aware this means I'm likely missing tons of nuance and context. If you do know Japanese and can think of better translations, please tell me!
 
 ## Name Changes
-|Original |New
-|--- |---
-|Megami |Goddess
-|Jirae  |Terran
-|Jaki   |Maneater
-|Yoma   |Spirit
-|Spirit |Wraith
-|Touki  |Warrior
-|Genma  |Phantom
-|Entity |Forgotten
-|Godly  |God
-|Herald/Seraph |Archangel
-|Divine |Angel
-|Tyrant |Devil
-|Flight |Bird
-|Wood   |Plant
-|Avian  |Herald        
-|Avatar |Beast God
-|Wilder |Monster
-|Holy   |Mythic
-|Snake  |Drake
-|Drake  |Wyrm
-|Fairy  |Fey
-|Lady   |Mother
-|Fury   |Destroyer
-|Night  |Nightmare
-|Femme  |Fatale
-|Vile   |Wicked                  
-|Haunt/Ghost  |Revenant
-|Foul   |Anathema/Pariah
+|Original |New |&nbsp; |Original |New
+|--- |--- |--- |--- |---
+|Megami |Goddess  ||Entity |Forgotten
+|Jirae  |Terran   ||Godly  |God
+|Jaki   |Maneater ||Tyrant |Devil
+|Touki  |Warrior  ||Lady   |Mother
+|Genma  |Phantom  ||Fury   |Destroyer
+|Yoma   |Spirit   ||Wood   |Plant
+|Spirit |Wraith   ||Vile   |Wicked
+|Divine |Angel    ||Avatar |Beast God
+|Herald/Seraph |Archangel ||Wilder |Monster
+|Flight |Bird     ||Holy   |Mythic
+|Avian  |Herald   ||Fairy  |Fey
+|Snake  |Drake    ||Night  |Nightmare
+|Drake  |Wyrm     ||Femme  |Fatale             
+|Haunt/Ghost  |Revenant ||Foul   |Anathema/Pariah
 
 ## Patches
 ### SMT1
