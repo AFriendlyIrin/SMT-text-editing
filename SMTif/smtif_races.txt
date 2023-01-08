@@ -1,0 +1,539 @@
+//GAME NAME:		Shin Megami Tensei if... (SFC)
+
+#VAR(data, TABLE)
+#ADDTBL("../games/smtif/smtif.tbl", data)
+#SMA("LOROM00")
+#HDR($00)
+
+#ACTIVETBL(data)
+#JMP($207E00,$207FFF)
+
+//BLOCK #000 NAME:		Races
+
+//POINTER #0 @ $208D4B - STRING #0 @ $208DA1
+
+#W16($208D4B)
+God[END]
+
+//POINTER #1 @ $208D4D - STRING #1 @ $208DA8
+
+#W16($208D4D)
+Archangel[END]
+
+//POINTER #2 @ $208D4F - STRING #2 @ $208DB0
+
+#W16($208D4F)
+Amatsu[END]
+
+//POINTER #3 @ $208D51 - STRING #3 @ $208DB8
+
+#W16($208D51)
+Herald[END]
+
+//POINTER #4 @ $208D53 - STRING #4 @ $208DBF
+
+#W16($208D53)
+Goddess[END]
+
+//POINTER #5 @ $208D55 - STRING #5 @ $208DC7
+
+#W16($208D55)
+Deity[END]
+
+//POINTER #6 @ $208D57 - STRING #6 @ $208DCE
+
+#W16($208D57)
+Beast God[END]
+
+//POINTER #7 @ $208D59 - STRING #7 @ $208DD6
+
+#W16($208D59)
+Mythic[END]
+
+//POINTER #8 @ $208D5B - STRING #8 @ $208DDC
+
+#W16($208D5B)
+Element[END]
+
+//POINTER #9 @ $208D5D - STRING #9 @ $208DE3
+
+#W16($208D5D)
+Destroyer[END]
+
+//POINTER #10 @ $208D5F - STRING #10 @ $208DE9
+
+#W16($208D5F)
+Dragon[END]
+
+//POINTER #11 @ $208D61 - STRING #11 @ $208DF1
+
+#W16($208D61)
+Mother[END]
+
+//POINTER #12 @ $208D63 - STRING #12 @ $208DF7
+
+#W16($208D63)
+Kunitsu[END]
+
+//POINTER #13 @ $208D65 - STRING #13 @ $208E00
+
+#W16($208D65)
+Angel[END]
+
+//POINTER #14 @ $208D67 - STRING #14 @ $208E08
+
+#W16($208D67)
+Bird[END]
+
+//POINTER #15 @ $208D69 - STRING #15 @ $208E10
+
+#W16($208D69)
+Messian[END]
+
+//POINTER #16 @ $208D6B - STRING #16 @ $208E19
+
+#W16($208D6B)
+Drake[END]
+
+//POINTER #17 @ $208D6D - STRING #17 @ $208E20
+
+#W16($208D6D)
+Spirit[END]
+
+//POINTER #18 @ $208D6F - STRING #18 @ $208E26
+
+#W16($208D6F)
+Beast[END]
+
+//POINTER #19 @ $208D71 - STRING #19 @ $208E2D
+
+#W16($208D71)
+Nightmare[END]
+
+//POINTER #20 @ $208D73 - STRING #20 @ $208E34
+
+#W16($208D73)
+Terran[END]
+
+//POINTER #21 @ $208D75 - STRING #21 @ $208E3B
+
+#W16($208D75)
+Fey[END]
+
+//POINTER #22 @ $208D77 - STRING #22 @ $208E40
+
+#W16($208D77)
+Demonoid[END]
+
+//POINTER #23 @ $208D79 - STRING #23 @ $208E4A
+
+#W16($208D79)
+Fallen[END]
+
+//POINTER #24 @ $208D7B - STRING #24 @ $208E52
+
+#W16($208D7B)
+Brute[END]
+
+//POINTER #25 @ $208D7D - STRING #25 @ $208E59
+
+#W16($208D7D)
+Fatale[END]
+
+//POINTER #26 @ $208D7F - STRING #26 @ $208E60
+
+#W16($208D7F)
+Gaian[END]
+
+//POINTER #27 @ $208D81 - STRING #27 @ $208E67
+
+#W16($208D81)
+Wicked[END]
+
+//POINTER #28 @ $208D83 - STRING #28 @ $208E6D
+
+#W16($208D83)
+Raptor[END]
+
+//POINTER #29 @ $208D85 - STRING #29 @ $208E75
+
+#W16($208D85)
+Machine[END]
+
+//POINTER #30 @ $208D87 - STRING #30 @ $208E7E
+
+#W16($208D87)
+Vaccine[END]
+
+//POINTER #31 @ $208D89 - STRING #31 @ $208E87
+
+#W16($208D89)
+Maneater[END]
+
+//POINTER #32 @ $208D8B - STRING #32 @ $208E8D
+
+#W16($208D8B)
+Monster[END]
+
+//POINTER #33 @ $208D8D - STRING #33 @ $208E95
+
+#W16($208D8D)
+Plant[END]
+
+//POINTER #34 @ $208D8F - STRING #34 @ $208E9B
+
+#W16($208D8F)
+Undead[END]
+
+//POINTER #35 @ $208D91 - STRING #35 @ $208EA3
+
+#W16($208D91)
+Devil[END]
+
+//POINTER #36 @ $208D93 - STRING #36 @ $208EAB
+
+#W16($208D93)
+Wyrm[END]
+
+//POINTER #37 @ $208D95 - STRING #37 @ $208EB2
+
+#W16($208D95)
+Revenant[END]
+
+//POINTER #38 @ $208D97 - STRING #38 @ $208EB9
+
+#W16($208D97)
+Wraith[END]
+
+//POINTER #39 @ $208D99 - STRING #39 @ $208EC1
+
+#W16($208D99)
+Anathema[END]
+
+//POINTER #40 @ $208D9B - STRING #40 @ $208EC7
+
+#W16($208D9B)
+Virus[END]
+
+//POINTER #41 @ $208D9D - STRING #41 @ $208ECE
+
+#W16($208D9D)
+Human[END]
+
+//POINTER #42 @ $208D9F - STRING #42 @ $208ED7
+
+#W16($208D9F)
+Wargod[END]
+
+//SECOND PASS - double up ptrs for msg text
+//These are LONG POINTERS (24-bit) so switch to W24 command
+
+#JMP($207E00,$207FFF)
+//POINTER #0 @ $107062 - STRING #0 @ $21AAAD
+
+#W24($107062)
+God[END]
+
+//POINTER #1 @ $107065 - STRING #1 @ $21AAB4
+
+#W24($107065)
+Archangel[END]
+
+//POINTER #2 @ $107068 - STRING #2 @ $21AABC
+
+#W24($107068)
+Amatsu[END]
+
+//POINTER #3 @ $10706B - STRING #3 @ $21AAC4
+
+#W24($10706B)
+Herald[END]
+
+//POINTER #4 @ $10706E - STRING #4 @ $21AACB
+
+#W24($10706E)
+Goddess[END]
+
+//POINTER #5 @ $107071 - STRING #5 @ $21AAD3
+
+#W24($107071)
+Deity[END]
+
+//POINTER #6 @ $107074 - STRING #6 @ $21AADA
+
+#W24($107074)
+Beast God[END]
+
+//POINTER #7 @ $107077 - STRING #7 @ $21AAE2
+
+#W24($107077)
+Mythic[END]
+
+//POINTER #8 @ $10707A - STRING #8 @ $21AAE8
+
+#W24($10707A)
+Element[END]
+
+//POINTER #9 @ $10707D - STRING #9 @ $21AAEF
+
+#W24($10707D)
+Destroyer[END]
+
+//POINTER #10 @ $107080 - STRING #10 @ $21AAF5
+
+#W24($107080)
+Dragon[END]
+
+//POINTER #11 @ $107083 - STRING #11 @ $21AAFD
+
+#W24($107083)
+Mother[END]
+
+//POINTER #12 @ $107086 - STRING #12 @ $21AB03
+
+#W24($107086)
+Kunitsu[END]
+
+//POINTER #13 @ $107089 - STRING #13 @ $21AB0C
+
+#W24($107089)
+Angel[END]
+
+//POINTER #14 @ $10708C - STRING #14 @ $21AB14
+
+#W24($10708C)
+Bird[END]
+
+//POINTER #15 @ $10708F - STRING #15 @ $21AB1C
+
+#W24($10708F)
+Messian[END]
+
+//POINTER #16 @ $107092 - STRING #16 @ $21AB25
+
+#W24($107092)
+Drake[END]
+
+//POINTER #17 @ $107095 - STRING #17 @ $21AB2C
+
+#W24($107095)
+Spirit[END]
+
+//POINTER #18 @ $107098 - STRING #18 @ $21AB32
+
+#W24($107098)
+Beast[END]
+
+//POINTER #19 @ $10709B - STRING #19 @ $21AB39
+
+#W24($10709B)
+Nightmare[END]
+
+//POINTER #20 @ $10709E - STRING #20 @ $21AB40
+
+#W24($10709E)
+Terran[END]
+
+//POINTER #21 @ $1070A1 - STRING #21 @ $21AB47
+
+#W24($1070A1)
+Fey[END]
+
+//POINTER #22 @ $1070A4 - STRING #22 @ $21AB4C
+
+#W24($1070A4)
+Demonoid[END]
+
+//POINTER #23 @ $1070A7 - STRING #23 @ $21AB56
+
+#W24($1070A7)
+Fallen[END]
+
+//POINTER #24 @ $1070AA - STRING #24 @ $21AB5E
+
+#W24($1070AA)
+Brute[END]
+
+//POINTER #25 @ $1070AD - STRING #25 @ $21AB65
+
+#W24($1070AD)
+Fatale[END]
+
+//POINTER #26 @ $1070B0 - STRING #26 @ $21AB6C
+
+#W24($1070B0)
+Gaian[END]
+
+//POINTER #27 @ $1070B3 - STRING #27 @ $21AB73
+
+#W24($1070B3)
+Wicked[END]
+
+//POINTER #28 @ $1070B6 - STRING #28 @ $21AB79
+
+#W24($1070B6)
+Raptor[END]
+
+//POINTER #29 @ $1070B9 - STRING #29 @ $21AB81
+
+#W24($1070B9)
+Machine[END]
+
+//POINTER #30 @ $1070BC - STRING #30 @ $21AB8A
+
+#W24($1070BC)
+Vaccine[END]
+
+//POINTER #31 @ $1070BF - STRING #31 @ $21AB93
+
+#W24($1070BF)
+Maneater[END]
+
+//POINTER #32 @ $1070C2 - STRING #32 @ $21AB99
+
+#W24($1070C2)
+Monster[END]
+
+//POINTER #33 @ $1070C5 - STRING #33 @ $21ABA1
+
+#W24($1070C5)
+Plant[END]
+
+//POINTER #34 @ $1070C8 - STRING #34 @ $21ABA7
+
+#W24($1070C8)
+Undead[END]
+
+//POINTER #35 @ $1070CB - STRING #35 @ $21ABAF
+
+#W24($1070CB)
+Devil[END]
+
+//POINTER #36 @ $1070CE - STRING #36 @ $21ABB7
+
+#W24($1070CE)
+Wyrm[END]
+
+//POINTER #37 @ $1070D1 - STRING #37 @ $21ABBE
+
+#W24($1070D1)
+Revenant[END]
+
+//POINTER #38 @ $1070D4 - STRING #38 @ $21ABC5
+
+#W24($1070D4)
+Wraith[END]
+
+//POINTER #39 @ $1070D7 - STRING #39 @ $21ABCD
+
+#W24($1070D7)
+Anathema[END]
+
+//POINTER #40 @ $1070DA - STRING #40 @ $21ABD3
+
+#W24($1070DA)
+Virus[END]
+
+//Tutorial about species -- moved to end of text block to avoid length problems
+#JMP($24BD40)
+//POINTER #77 @ $1100E7 - STRING #77 @ $21F22F
+
+#W24($1100E7)
+[PAGE]
+There are 34 types of demons,[LINE]
+which are broken up into 12 families.[WAIT]
+[PAGE]
+First there are the Gods,[LINE]
+which consist of Deities,[LINE]
+Goddesses, and the Amatsu.[WAIT]
+[PAGE]
+Then there's the Kishin,[LINE]
+which consist of Destroyers,[LINE]
+Mothers, Wicked, and the Kunitsu.[WAIT]
+[PAGE]
+The Demonic family consists of[LINE]
+Devils, Spirits, Nightmares, and[LINE]
+the Fey.[WAIT]
+[PAGE]
+The Angel family consists of[LINE]
+Angels, Archangels, and the Fallen.[WAIT]
+[PAGE]
+The Dragon family has Dragons,[LINE]
+Drakes, and Wyrms.[WAIT]
+[PAGE]
+The Avian family has Birds,[LINE]
+Heralds, and Raptors.[WAIT]
+[PAGE]
+The Beast family consists of Beasts,[LINE]
+Mythics, Monsters, and Beast Gods.[WAIT]
+[PAGE]
+The Oni consist of Fatales,[LINE]
+Brutes, Terrans, and Maneaters.[WAIT]
+[PAGE]
+The Evil Spirit family has[LINE]
+Undead, Revenants, and Wraiths.[WAIT]
+[PAGE]
+And lastly the Anathema family[LINE]
+only has Anathema.[WAIT]
+[PAGE]
+Elements and Plant demons are alone[LINE]
+in their respective families.[WAIT]
+[PAGE]
+That about sums it up for demon[LINE]
+types.[WAIT]
+[END]
+
+//POINTER #79 @ $1100ED - STRING #79 @ $21F96E
+
+#W24($1100ED)
+[PAGE]
+You can talk to demons that you meet[LINE]
+and have them join you.[WAIT]
+[PAGE]
+We call demons that join up with[LINE]
+you "minions."[WAIT]
+[PAGE]
+The demon types that you can make[LINE]
+minions are Spirits, Nightmares, Fey,[LINE]
+Archangels, Fallen, Drakes, Fatales,[WAIT]
+[PAGE]
+Brutes, Beasts, Birds, and Terrans.[WAIT]
+[PAGE]
+The demons that won't become your[LINE]
+minions are Devils, Wicked,[LINE]
+Wyrms, Raptors, Monsters, Maneaters,[WAIT]
+[PAGE]
+Plants, Undead, Revenants, Wraiths,[LINE]
+and Anathema.[WAIT]
+[PAGE]
+Now, those demons that you can't[LINE]
+convince to join you,[WAIT]
+[PAGE]
+you can still get to make 'em[LINE]
+your minions if you create them[LINE]
+through fusion.[WAIT]
+[PAGE]
+There are also some demons you[LINE]
+won't find in the Expanse at all unless[LINE]
+you create them through fusion.[WAIT]
+[PAGE]
+Those would be Deities, Goddesses,[LINE]
+Mothers, Destroyers, Dragons,[LINE]
+Beast Gods, Heralds, Mythics,[WAIT]
+[PAGE]
+and the Amatsu and Kunitsu.[WAIT]
+[PAGE]
+Once you've got a demon as a[LINE]
+minion, you can summon them and[LINE]
+take them along with you.[WAIT]
+[PAGE]
+But summoning them costs money,[LINE]
+and they use up Magnetite as[LINE]
+you walk.[WAIT]
+[PAGE]
+Also, you won't be able to summon[LINE]
+any demons whose alignment differs[LINE]
+too much from that of your party,[WAIT]
+[PAGE]
+so be careful there too.[WAIT]
+[END]
