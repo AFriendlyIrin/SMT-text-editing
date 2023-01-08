@@ -1,0 +1,337 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = -8288542040126629907
+ 1 string m_Name = "RACE_EN"
+ 0 MsgData _eventEMsgData
+  0 Array Array (81 items)
+   0 int size = 81
+   [0]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0000"
+     1 string msgStr = "Fiend"
+   [1]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0001"
+     1 string msgStr = "Votary"
+   [2]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0002"
+     1 string msgStr = "Adept"
+   [3]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0003"
+     1 string msgStr = "Soldier"
+   [4]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0004"
+     1 string msgStr = "Zealot"
+   [5]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0005"
+     1 string msgStr = "Expert"
+   [6]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0006"
+     1 string msgStr = "Battler"
+   [7]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0007"
+     1 string msgStr = "Saint"
+   [8]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0008"
+     1 string msgStr = "Master"
+   [9]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0009"
+     1 string msgStr = "Slayer"
+   [10]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0010"
+     1 string msgStr = "Spirit"
+   [11]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0011"
+     1 string msgStr = "Phenom"
+   [12]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0012"
+     1 string msgStr = "Lord"
+   [13]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0013"
+     1 string msgStr = "King"
+   [14]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0014"
+     1 string msgStr = "King"
+   [15]
+    0 MsgData data
+     1 string msgID = "PLAYERRACE_L0015"
+     1 string msgStr = "King"
+   [16]
+    0 MsgData data
+     1 string msgID = "RACE_L0000"
+     1 string msgStr = "Race"
+   [17]
+    0 MsgData data
+     1 string msgID = "RACE_L0001"
+     1 string msgStr = "Deity"
+   [18]
+    0 MsgData data
+     1 string msgID = "RACE_L0002"
+     1 string msgStr = "Goddess"
+   [19]
+    0 MsgData data
+     1 string msgID = "RACE_L0003"
+     1 string msgStr = "Destroyer"
+   [20]
+    0 MsgData data
+     1 string msgID = "RACE_L0004"
+     1 string msgStr = "Mother"
+   [21]
+    0 MsgData data
+     1 string msgID = "RACE_L0005"
+     1 string msgStr = "Kishin"
+   [22]
+    0 MsgData data
+     1 string msgID = "RACE_L0006"
+     1 string msgStr = "Mythic"
+   [23]
+    0 MsgData data
+     1 string msgID = "RACE_L0007"
+     1 string msgStr = "Element"
+   [24]
+    0 MsgData data
+     1 string msgID = "RACE_L0008"
+     1 string msgStr = "Mitama"
+   [25]
+    0 MsgData data
+     1 string msgID = "RACE_L0009"
+     1 string msgStr = "Spirit"
+   [26]
+    0 MsgData data
+     1 string msgID = "RACE_L0010"
+     1 string msgStr = "Fey"
+   [27]
+    0 MsgData data
+     1 string msgID = "RACE_L0011"
+     1 string msgStr = "Angel"
+   [28]
+    0 MsgData data
+     1 string msgID = "RACE_L0012"
+     1 string msgStr = "Fallen"
+   [29]
+    0 MsgData data
+     1 string msgID = "RACE_L0013"
+     1 string msgStr = "Drake"
+   [30]
+    0 MsgData data
+     1 string msgID = "RACE_L0014"
+     1 string msgStr = "Beast"
+   [31]
+    0 MsgData data
+     1 string msgID = "RACE_L0015"
+     1 string msgStr = "Terrae"
+   [32]
+    0 MsgData data
+     1 string msgID = "RACE_L0016"
+     1 string msgStr = "Brute"
+   [33]
+    0 MsgData data
+     1 string msgID = "RACE_L0017"
+     1 string msgStr = "Fatale"
+   [34]
+    0 MsgData data
+     1 string msgID = "RACE_L0018"
+     1 string msgStr = "Wicked"
+   [35]
+    0 MsgData data
+     1 string msgID = "RACE_L0019"
+     1 string msgStr = "Tyrant"
+   [36]
+    0 MsgData data
+     1 string msgID = "RACE_L0020"
+     1 string msgStr = "Nightmare"
+   [37]
+    0 MsgData data
+     1 string msgID = "RACE_L0021"
+     1 string msgStr = "Monster"
+   [38]
+    0 MsgData data
+     1 string msgID = "RACE_L0022"
+     1 string msgStr = "Undead"
+   [39]
+    0 MsgData data
+     1 string msgID = "RACE_L0023"
+     1 string msgStr = "Pariah"
+   [40]
+    0 MsgData data
+     1 string msgID = "RACE_L0024"
+     1 string msgStr = "Archangel"
+   [41]
+    0 MsgData data
+     1 string msgID = "RACE_L0025"
+     1 string msgStr = "Wargod"
+   [42]
+    0 MsgData data
+     1 string msgID = "RACE_L0026"
+     1 string msgStr = "Phantom"
+   [43]
+    0 MsgData data
+     1 string msgID = "RACE_L0027"
+     1 string msgStr = "Dragon"
+   [44]
+    0 MsgData data
+     1 string msgID = "RACE_L0028"
+     1 string msgStr = "Beast God"
+   [45]
+    0 MsgData data
+     1 string msgID = "RACE_L0029"
+     1 string msgStr = "Herald"
+   [46]
+    0 MsgData data
+     1 string msgID = "RACE_L0030"
+     1 string msgStr = "Raptor"
+   [47]
+    0 MsgData data
+     1 string msgID = "RACE_L0031"
+     1 string msgStr = "Reaper"
+   [48]
+    0 MsgData data
+     1 string msgID = "RACE_L0032"
+     1 string msgStr = "Forgotten"
+   [49]
+    0 MsgData data
+     1 string msgID = "RACE_L0033"
+     1 string msgStr = "Corpus"
+   [50]
+    0 MsgData data
+     1 string msgID = "RACE_L0034"
+     1 string msgStr = "Zoa"
+   [51]
+    0 MsgData data
+     1 string msgID = "RACE_L0035"
+     1 string msgStr = "Hallel"
+   [52]
+    0 MsgData data
+     1 string msgID = "RACE_L0036"
+     1 string msgStr = "Vast Light"
+   [53]
+    0 MsgData data
+     1 string msgID = "RACE_L0037"
+     1 string msgStr = "Emperor"
+   [54]
+    0 MsgData data
+     1 string msgID = "RACE_L0038"
+     1 string msgStr = "Fiend"
+   [55]
+    0 MsgData data
+     1 string msgID = "RACE_L0039"
+     1 string msgStr = "Devil"
+   [56]
+    0 MsgData data
+     1 string msgID = "RACE_L0040"
+     1 string msgStr = ""
+   [57]
+    0 MsgData data
+     1 string msgID = "RACE_L0041"
+     1 string msgStr = ""
+   [58]
+    0 MsgData data
+     1 string msgID = "RACE_L0042"
+     1 string msgStr = ""
+   [59]
+    0 MsgData data
+     1 string msgID = "RACE_L0043"
+     1 string msgStr = ""
+   [60]
+    0 MsgData data
+     1 string msgID = "RACE_L0044"
+     1 string msgStr = ""
+   [61]
+    0 MsgData data
+     1 string msgID = "RACE_L0045"
+     1 string msgStr = ""
+   [62]
+    0 MsgData data
+     1 string msgID = "RACE_L0046"
+     1 string msgStr = ""
+   [63]
+    0 MsgData data
+     1 string msgID = "RACE_L0047"
+     1 string msgStr = ""
+   [64]
+    0 MsgData data
+     1 string msgID = "RACE_L0048"
+     1 string msgStr = ""
+   [65]
+    0 MsgData data
+     1 string msgID = "RACE_L0049"
+     1 string msgStr = ""
+   [66]
+    0 MsgData data
+     1 string msgID = "RACE_L0050"
+     1 string msgStr = ""
+   [67]
+    0 MsgData data
+     1 string msgID = "RACE_L0051"
+     1 string msgStr = ""
+   [68]
+    0 MsgData data
+     1 string msgID = "RACE_L0052"
+     1 string msgStr = ""
+   [69]
+    0 MsgData data
+     1 string msgID = "RACE_L0053"
+     1 string msgStr = ""
+   [70]
+    0 MsgData data
+     1 string msgID = "RACE_L0054"
+     1 string msgStr = ""
+   [71]
+    0 MsgData data
+     1 string msgID = "RACE_L0055"
+     1 string msgStr = ""
+   [72]
+    0 MsgData data
+     1 string msgID = "RACE_L0056"
+     1 string msgStr = ""
+   [73]
+    0 MsgData data
+     1 string msgID = "RACE_L0057"
+     1 string msgStr = ""
+   [74]
+    0 MsgData data
+     1 string msgID = "RACE_L0058"
+     1 string msgStr = ""
+   [75]
+    0 MsgData data
+     1 string msgID = "RACE_L0059"
+     1 string msgStr = ""
+   [76]
+    0 MsgData data
+     1 string msgID = "RACE_L0060"
+     1 string msgStr = ""
+   [77]
+    0 MsgData data
+     1 string msgID = "RACE_L0061"
+     1 string msgStr = ""
+   [78]
+    0 MsgData data
+     1 string msgID = "RACE_L0062"
+     1 string msgStr = ""
+   [79]
+    0 MsgData data
+     1 string msgID = "RACE_L0063"
+     1 string msgStr = ""
+   [80]
+    0 MsgData data
+     1 string msgID = "RACEMC_L0040"
+     1 string msgStr = "???"
+ 1 string _convDateTime = "2020/10/29 18:38:43"

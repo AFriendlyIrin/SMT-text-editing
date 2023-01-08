@@ -1,0 +1,1569 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = -8288542040126629907
+ 1 string m_Name = "DEVIL_EN"
+ 0 MsgData _eventEMsgData
+  0 Array Array (389 items)
+   0 int size = 389
+   [0]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0000"
+     1 string msgStr = "Dummy"
+   [1]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0001"
+     1 string msgStr = "Vishnu"
+   [2]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0002"
+     1 string msgStr = "Mitra"
+   [3]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0003"
+     1 string msgStr = "Amaterasu"
+   [4]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0004"
+     1 string msgStr = "Odin"
+   [5]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0005"
+     1 string msgStr = "Atavaka"
+   [6]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0006"
+     1 string msgStr = "Horus"
+   [7]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0007"
+     1 string msgStr = "Lakshmi"
+   [8]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0008"
+     1 string msgStr = "Scathach"
+   [9]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0009"
+     1 string msgStr = "Sarasvati"
+   [10]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0010"
+     1 string msgStr = "Sati"
+   [11]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0011"
+     1 string msgStr = "Ame-no-Uzume"
+   [12]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0012"
+     1 string msgStr = "Shiva"
+   [13]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0013"
+     1 string msgStr = "Beidou Xingjun"
+   [14]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0014"
+     1 string msgStr = "Qitian Dasheng"
+   [15]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0015"
+     1 string msgStr = "Dionysus"
+   [16]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0016"
+     1 string msgStr = "Kali"
+   [17]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0017"
+     1 string msgStr = "Skadi"
+   [18]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0018"
+     1 string msgStr = "Parvati"
+   [19]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0019"
+     1 string msgStr = "Kushinada"
+   [20]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0020"
+     1 string msgStr = "Kikuri-Hime"
+   [21]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0021"
+     1 string msgStr = "Bishamonten"
+   [22]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0022"
+     1 string msgStr = "Thor"
+   [23]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0023"
+     1 string msgStr = "Jikokuten"
+   [24]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0024"
+     1 string msgStr = "Take-Mikazuchi"
+   [25]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0025"
+     1 string msgStr = "Okuninushi"
+   [26]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0026"
+     1 string msgStr = "Koumokuten"
+   [27]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0027"
+     1 string msgStr = "Zouchouten"
+   [28]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0028"
+     1 string msgStr = "Take-Minakata"
+   [29]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0029"
+     1 string msgStr = "Chimera"
+   [30]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0030"
+     1 string msgStr = "Baihu"
+   [31]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0031"
+     1 string msgStr = "Senri"
+   [32]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0032"
+     1 string msgStr = "Zhuque"
+   [33]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0033"
+     1 string msgStr = "Shiisaa"
+   [34]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0034"
+     1 string msgStr = "Xiezhai"
+   [35]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0035"
+     1 string msgStr = "Unicorn"
+   [36]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0036"
+     1 string msgStr = "Flaemis"
+   [37]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0037"
+     1 string msgStr = "Aquans"
+   [38]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0038"
+     1 string msgStr = "Aeros"
+   [39]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0039"
+     1 string msgStr = "Erthys"
+   [40]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0040"
+     1 string msgStr = "Saki Mitama"
+   [41]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0041"
+     1 string msgStr = "Kushi Mitama"
+   [42]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0042"
+     1 string msgStr = "Nigi Mitama"
+   [43]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0043"
+     1 string msgStr = "Ara Mitama"
+   [44]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0044"
+     1 string msgStr = "Efreet"
+   [45]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0045"
+     1 string msgStr = "Pulukishi"
+   [46]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0046"
+     1 string msgStr = "Ongkhot"
+   [47]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0047"
+     1 string msgStr = "Jinn"
+   [48]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0048"
+     1 string msgStr = "Karasu Tengu"
+   [49]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0049"
+     1 string msgStr = "Dís"
+   [50]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0050"
+     1 string msgStr = "Isora"
+   [51]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0051"
+     1 string msgStr = "Apsaras"
+   [52]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0052"
+     1 string msgStr = "Koppa Tengu"
+   [53]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0053"
+     1 string msgStr = "Titania"
+   [54]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0054"
+     1 string msgStr = "Oberon"
+   [55]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0055"
+     1 string msgStr = "Troll"
+   [56]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0056"
+     1 string msgStr = "Setanta"
+   [57]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0057"
+     1 string msgStr = "Kelpie"
+   [58]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0058"
+     1 string msgStr = "Jack-o'-Lantern"
+   [59]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0059"
+     1 string msgStr = "High Pixie"
+   [60]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0060"
+     1 string msgStr = "Jack Frost"
+   [61]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0061"
+     1 string msgStr = "Pixie"
+   [62]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0062"
+     1 string msgStr = "Throne"
+   [63]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0063"
+     1 string msgStr = "Dominion"
+   [64]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0064"
+     1 string msgStr = "Virtue"
+   [65]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0065"
+     1 string msgStr = "Power"
+   [66]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0066"
+     1 string msgStr = "Principality"
+   [67]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0067"
+     1 string msgStr = "Archangel"
+   [68]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0068"
+     1 string msgStr = "Angel"
+   [69]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0069"
+     1 string msgStr = "Flauros"
+   [70]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0070"
+     1 string msgStr = "Decarabia"
+   [71]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0071"
+     1 string msgStr = "Ose"
+   [72]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0072"
+     1 string msgStr = "Berith"
+   [73]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0073"
+     1 string msgStr = "Eligor"
+   [74]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0074"
+     1 string msgStr = "Forneus"
+   [75]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0075"
+     1 string msgStr = "Yurlungur"
+   [76]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0076"
+     1 string msgStr = "Quetzalcoatl"
+   [77]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0077"
+     1 string msgStr = "Naga Raja"
+   [78]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0078"
+     1 string msgStr = "Mizuchi"
+   [79]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0079"
+     1 string msgStr = "Naga"
+   [80]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0080"
+     1 string msgStr = "Nozuchi"
+   [81]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0081"
+     1 string msgStr = "Cerberus"
+   [82]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0082"
+     1 string msgStr = "Orthrus"
+   [83]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0083"
+     1 string msgStr = "Suparna"
+   [84]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0084"
+     1 string msgStr = "Badb Catha"
+   [85]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0085"
+     1 string msgStr = "Inugami"
+   [86]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0086"
+     1 string msgStr = "Nekomata"
+   [87]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0087"
+     1 string msgStr = "Gogmagog"
+   [88]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0088"
+     1 string msgStr = "Titan"
+   [89]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0089"
+     1 string msgStr = "Sarutahiko"
+   [90]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0090"
+     1 string msgStr = "Sudama"
+   [91]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0091"
+     1 string msgStr = "Hua Po"
+   [92]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0092"
+     1 string msgStr = "Kodama"
+   [93]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0093"
+     1 string msgStr = "Shiki-Ouji"
+   [94]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0094"
+     1 string msgStr = "Oni"
+   [95]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0095"
+     1 string msgStr = "Yomotsu-Ikusa"
+   [96]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0096"
+     1 string msgStr = "Momunofu"
+   [97]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0097"
+     1 string msgStr = "Shikigami"
+   [98]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0098"
+     1 string msgStr = "Rangda"
+   [99]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0099"
+     1 string msgStr = "Dakini"
+   [100]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0100"
+     1 string msgStr = "Yaksini"
+   [101]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0101"
+     1 string msgStr = "Yomotsu-Shikome"
+   [102]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0102"
+     1 string msgStr = "Taraka"
+   [103]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0103"
+     1 string msgStr = "Datsue-Ba"
+   [104]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0104"
+     1 string msgStr = "Mada"
+   [105]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0105"
+     1 string msgStr = "Girimekhala"
+   [106]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0106"
+     1 string msgStr = "Taotie"
+   [107]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0107"
+     1 string msgStr = "Pazuzu"
+   [108]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0108"
+     1 string msgStr = "Baphomet"
+   [109]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0109"
+     1 string msgStr = "Mot"
+   [110]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0110"
+     1 string msgStr = "Aciel"
+   [111]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0111"
+     1 string msgStr = "Surt"
+   [112]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0112"
+     1 string msgStr = "Abaddon"
+   [113]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0113"
+     1 string msgStr = "Loki"
+   [114]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0114"
+     1 string msgStr = "Lilith"
+   [115]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0115"
+     1 string msgStr = "Nyx"
+   [116]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0116"
+     1 string msgStr = "Queen Mab"
+   [117]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0117"
+     1 string msgStr = "Succubus"
+   [118]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0118"
+     1 string msgStr = "Incubus"
+   [119]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0119"
+     1 string msgStr = "Fomorian"
+   [120]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0120"
+     1 string msgStr = "Lilim"
+   [121]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0121"
+     1 string msgStr = "Hresvelgr"
+   [122]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0122"
+     1 string msgStr = "Mothman"
+   [123]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0123"
+     1 string msgStr = "Raiju"
+   [124]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0124"
+     1 string msgStr = "Nue"
+   [125]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0125"
+     1 string msgStr = "Bicorn"
+   [126]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0126"
+     1 string msgStr = "Zhen"
+   [127]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0127"
+     1 string msgStr = "Vetala"
+   [128]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0128"
+     1 string msgStr = "Legion"
+   [129]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0129"
+     1 string msgStr = "Yaka"
+   [130]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0130"
+     1 string msgStr = "Choronzon"
+   [131]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0131"
+     1 string msgStr = "Preta"
+   [132]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0132"
+     1 string msgStr = "Shadow"
+   [133]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0133"
+     1 string msgStr = "Black Ooze"
+   [134]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0134"
+     1 string msgStr = "Blob"
+   [135]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0135"
+     1 string msgStr = "Slime"
+   [136]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0136"
+     1 string msgStr = "Mou-Ryo"
+   [137]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0137"
+     1 string msgStr = "Will o' Wisp"
+   [138]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0138"
+     1 string msgStr = "Michael"
+   [139]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0139"
+     1 string msgStr = "Gabriel"
+   [140]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0140"
+     1 string msgStr = "Raphael"
+   [141]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0141"
+     1 string msgStr = "Uriel"
+   [142]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0142"
+     1 string msgStr = "Ganesha"
+   [143]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0143"
+     1 string msgStr = "Valkyrie"
+   [144]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0144"
+     1 string msgStr = "Arahabaki"
+   [145]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0145"
+     1 string msgStr = "Kurama Tengu"
+   [146]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0146"
+     1 string msgStr = "Hanuman"
+   [147]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0147"
+     1 string msgStr = "Cu Chulainn"
+   [148]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0148"
+     1 string msgStr = "Qing Long"
+   [149]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0149"
+     1 string msgStr = "Xuanwu"
+   [150]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0150"
+     1 string msgStr = "Barong"
+   [151]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0151"
+     1 string msgStr = "Makami"
+   [152]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0152"
+     1 string msgStr = "Garuda"
+   [153]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0153"
+     1 string msgStr = "Yatagarasu"
+   [154]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0154"
+     1 string msgStr = "Gurulu"
+   [155]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0155"
+     1 string msgStr = "Albion"
+   [156]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0156"
+     1 string msgStr = "Manikin"
+   [157]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0157"
+     1 string msgStr = "Manikin"
+   [158]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0158"
+     1 string msgStr = "Manikin"
+   [159]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0159"
+     1 string msgStr = "Manikin"
+   [160]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0160"
+     1 string msgStr = "Manikin"
+   [161]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0161"
+     1 string msgStr = "Samael"
+   [162]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0162"
+     1 string msgStr = "Manikin"
+   [163]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0163"
+     1 string msgStr = "Manikin"
+   [164]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0164"
+     1 string msgStr = "Manikin"
+   [165]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0165"
+     1 string msgStr = "Manikin"
+   [166]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0166"
+     1 string msgStr = "Manikin"
+   [167]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0167"
+     1 string msgStr = "Pisaca"
+   [168]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0168"
+     1 string msgStr = "Kaiwan"
+   [169]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0169"
+     1 string msgStr = "Kin-Ki"
+   [170]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0170"
+     1 string msgStr = "Sui-Ki"
+   [171]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0171"
+     1 string msgStr = "Fuu-Ki"
+   [172]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0172"
+     1 string msgStr = "Ongyo-Ki"
+   [173]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0173"
+     1 string msgStr = "Clotho"
+   [174]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0174"
+     1 string msgStr = "Lachesis"
+   [175]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0175"
+     1 string msgStr = "Atropos"
+   [176]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0176"
+     1 string msgStr = "Loa"
+   [177]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0177"
+     1 string msgStr = "Chatterskull"
+   [178]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0178"
+     1 string msgStr = "Wraith"
+   [179]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0179"
+     1 string msgStr = ""
+   [180]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0180"
+     1 string msgStr = ""
+   [181]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0181"
+     1 string msgStr = ""
+   [182]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0182"
+     1 string msgStr = ""
+   [183]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0183"
+     1 string msgStr = ""
+   [184]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0184"
+     1 string msgStr = ""
+   [185]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0185"
+     1 string msgStr = ""
+   [186]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0186"
+     1 string msgStr = ""
+   [187]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0187"
+     1 string msgStr = ""
+   [188]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0188"
+     1 string msgStr = ""
+   [189]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0189"
+     1 string msgStr = ""
+   [190]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0190"
+     1 string msgStr = ""
+   [191]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0191"
+     1 string msgStr = ""
+   [192]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0192"
+     1 string msgStr = "Dante"
+   [193]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0193"
+     1 string msgStr = "Metatron"
+   [194]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0194"
+     1 string msgStr = "Beelzebub"
+   [195]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0195"
+     1 string msgStr = "Pale Rider"
+   [196]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0196"
+     1 string msgStr = "White Rider"
+   [197]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0197"
+     1 string msgStr = "Red Rider"
+   [198]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0198"
+     1 string msgStr = "Black Rider"
+   [199]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0199"
+     1 string msgStr = "Matador"
+   [200]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0200"
+     1 string msgStr = "Hell Biker"
+   [201]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0201"
+     1 string msgStr = "Daisoujou"
+   [202]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0202"
+     1 string msgStr = "Whore of Babylon"
+   [203]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0203"
+     1 string msgStr = "Trumpeter"
+   [204]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0204"
+     1 string msgStr = "Futomimi"
+   [205]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0205"
+     1 string msgStr = "Sakahagi"
+   [206]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0206"
+     1 string msgStr = "Black Frost"
+   [207]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0207"
+     1 string msgStr = "Beelzebub"
+   [208]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0208"
+     1 string msgStr = ""
+   [209]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0209"
+     1 string msgStr = ""
+   [210]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0210"
+     1 string msgStr = ""
+   [211]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0211"
+     1 string msgStr = ""
+   [212]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0212"
+     1 string msgStr = ""
+   [213]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0213"
+     1 string msgStr = ""
+   [214]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0214"
+     1 string msgStr = ""
+   [215]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0215"
+     1 string msgStr = ""
+   [216]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0216"
+     1 string msgStr = ""
+   [217]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0217"
+     1 string msgStr = ""
+   [218]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0218"
+     1 string msgStr = ""
+   [219]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0219"
+     1 string msgStr = ""
+   [220]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0220"
+     1 string msgStr = ""
+   [221]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0221"
+     1 string msgStr = ""
+   [222]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0222"
+     1 string msgStr = ""
+   [223]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0223"
+     1 string msgStr = ""
+   [224]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0224"
+     1 string msgStr = ""
+   [225]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0225"
+     1 string msgStr = ""
+   [226]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0226"
+     1 string msgStr = ""
+   [227]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0227"
+     1 string msgStr = ""
+   [228]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0228"
+     1 string msgStr = ""
+   [229]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0229"
+     1 string msgStr = ""
+   [230]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0230"
+     1 string msgStr = ""
+   [231]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0231"
+     1 string msgStr = ""
+   [232]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0232"
+     1 string msgStr = ""
+   [233]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0233"
+     1 string msgStr = ""
+   [234]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0234"
+     1 string msgStr = ""
+   [235]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0235"
+     1 string msgStr = ""
+   [236]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0236"
+     1 string msgStr = ""
+   [237]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0237"
+     1 string msgStr = ""
+   [238]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0238"
+     1 string msgStr = ""
+   [239]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0239"
+     1 string msgStr = ""
+   [240]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0240"
+     1 string msgStr = ""
+   [241]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0241"
+     1 string msgStr = ""
+   [242]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0242"
+     1 string msgStr = ""
+   [243]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0243"
+     1 string msgStr = ""
+   [244]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0244"
+     1 string msgStr = ""
+   [245]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0245"
+     1 string msgStr = ""
+   [246]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0246"
+     1 string msgStr = ""
+   [247]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0247"
+     1 string msgStr = ""
+   [248]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0248"
+     1 string msgStr = ""
+   [249]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0249"
+     1 string msgStr = ""
+   [250]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0250"
+     1 string msgStr = ""
+   [251]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0251"
+     1 string msgStr = ""
+   [252]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0252"
+     1 string msgStr = ""
+   [253]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0253"
+     1 string msgStr = ""
+   [254]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0254"
+     1 string msgStr = ""
+   [255]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0255"
+     1 string msgStr = "Protagonist"
+   [256]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0256"
+     1 string msgStr = "Forneus"
+   [257]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0257"
+     1 string msgStr = "Specter"
+   [258]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0258"
+     1 string msgStr = "Ahriman"
+   [259]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0259"
+     1 string msgStr = "Noah"
+   [260]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0260"
+     1 string msgStr = "Incubus"
+   [261]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0261"
+     1 string msgStr = "Koppa Tengu"
+   [262]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0262"
+     1 string msgStr = "Kaiwan"
+   [263]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0263"
+     1 string msgStr = "Ose"
+   [264]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0264"
+     1 string msgStr = "Kagutsuchi"
+   [265]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0265"
+     1 string msgStr = "Mizuchi"
+   [266]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0266"
+     1 string msgStr = "Kin-Ki"
+   [267]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0267"
+     1 string msgStr = "Sui-Ki"
+   [268]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0268"
+     1 string msgStr = "Fuu-Ki"
+   [269]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0269"
+     1 string msgStr = "Ongyo-Ki"
+   [270]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0270"
+     1 string msgStr = "Clotho"
+   [271]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0271"
+     1 string msgStr = "Lachesis"
+   [272]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0272"
+     1 string msgStr = "Atropos"
+   [273]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0273"
+     1 string msgStr = "Specter"
+   [274]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0274"
+     1 string msgStr = "Girimekhala"
+   [275]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0275"
+     1 string msgStr = "Specter"
+   [276]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0276"
+     1 string msgStr = "Aciel"
+   [277]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0277"
+     1 string msgStr = "Skadi"
+   [278]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0278"
+     1 string msgStr = "Albion"
+   [279]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0279"
+     1 string msgStr = "Urthona"
+   [280]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0280"
+     1 string msgStr = "Urizen"
+   [281]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0281"
+     1 string msgStr = "Luvah"
+   [282]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0282"
+     1 string msgStr = "Tharmus"
+   [283]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0283"
+     1 string msgStr = "Futomimi"
+   [284]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0284"
+     1 string msgStr = "Gabriel"
+   [285]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0285"
+     1 string msgStr = "Raphael"
+   [286]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0286"
+     1 string msgStr = "Uriel"
+   [287]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0287"
+     1 string msgStr = "Samael"
+   [288]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0288"
+     1 string msgStr = "Baal Avatar"
+   [289]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0289"
+     1 string msgStr = "Ose Hallel"
+   [290]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0290"
+     1 string msgStr = "Flauros Hallel"
+   [291]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0291"
+     1 string msgStr = "Ahriman"
+   [292]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0292"
+     1 string msgStr = "Noah"
+   [293]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0293"
+     1 string msgStr = "Kagutsuchi"
+   [294]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0294"
+     1 string msgStr = "Specter"
+   [295]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0295"
+     1 string msgStr = "Specter"
+   [296]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0296"
+     1 string msgStr = "Specter"
+   [297]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0297"
+     1 string msgStr = "Mizuchi"
+   [298]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0298"
+     1 string msgStr = "Reserve"
+   [299]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0299"
+     1 string msgStr = "Sakahagi"
+   [300]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0300"
+     1 string msgStr = "Orthrus"
+   [301]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0301"
+     1 string msgStr = "Yaksini"
+   [302]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0302"
+     1 string msgStr = "Thor"
+   [303]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0303"
+     1 string msgStr = "Black Frost"
+   [304]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0304"
+     1 string msgStr = "Karasu Tengu"
+   [305]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0305"
+     1 string msgStr = "Karasu Tengu"
+   [306]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0306"
+     1 string msgStr = "Karasu Tengu"
+   [307]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0307"
+     1 string msgStr = "Eligor"
+   [308]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0308"
+     1 string msgStr = "Eligor"
+   [309]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0309"
+     1 string msgStr = "Eligor"
+   [310]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0310"
+     1 string msgStr = "Kelpie"
+   [311]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0311"
+     1 string msgStr = "Kelpie"
+   [312]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0312"
+     1 string msgStr = "Berith"
+   [313]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0313"
+     1 string msgStr = "Succubus"
+   [314]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0314"
+     1 string msgStr = "High Pixie"
+   [315]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0315"
+     1 string msgStr = "Kaiwan"
+   [316]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0316"
+     1 string msgStr = "Nekomata"
+   [317]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0317"
+     1 string msgStr = "Troll"
+   [318]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0318"
+     1 string msgStr = "Will o' Wisp"
+   [319]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0319"
+     1 string msgStr = "Preta"
+   [320]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0320"
+     1 string msgStr = "Bishamonten"
+   [321]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0321"
+     1 string msgStr = "Mara"
+   [322]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0322"
+     1 string msgStr = "Bishamonten"
+   [323]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0323"
+     1 string msgStr = "Jikokuten"
+   [324]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0324"
+     1 string msgStr = "Koumokuten"
+   [325]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0325"
+     1 string msgStr = "Zouchouten"
+   [326]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0326"
+     1 string msgStr = "Clotho"
+   [327]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0327"
+     1 string msgStr = "Lachesis"
+   [328]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0328"
+     1 string msgStr = "Atropos"
+   [329]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0329"
+     1 string msgStr = "Mitra"
+   [330]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0330"
+     1 string msgStr = "Masakado"
+   [331]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0331"
+     1 string msgStr = "Station Staff"
+   [332]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0332"
+     1 string msgStr = "Loki"
+   [333]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0333"
+     1 string msgStr = "Mada"
+   [334]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0334"
+     1 string msgStr = "Mot"
+   [335]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0335"
+     1 string msgStr = "Surt"
+   [336]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0336"
+     1 string msgStr = "Jack-o'-Lantern"
+   [337]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0337"
+     1 string msgStr = "Thor"
+   [338]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0338"
+     1 string msgStr = "Shadow"
+   [339]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0339"
+     1 string msgStr = "Dante"
+   [340]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0340"
+     1 string msgStr = "Dante"
+   [341]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0341"
+     1 string msgStr = "Dante"
+   [342]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0342"
+     1 string msgStr = "Metatron"
+   [343]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0343"
+     1 string msgStr = "Beelzebub"
+   [344]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0344"
+     1 string msgStr = "Lucifer"
+   [345]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0345"
+     1 string msgStr = "Pale Rider"
+   [346]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0346"
+     1 string msgStr = "White Rider"
+   [347]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0347"
+     1 string msgStr = "Red Rider"
+   [348]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0348"
+     1 string msgStr = "Black Rider"
+   [349]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0349"
+     1 string msgStr = "Matador"
+   [350]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0350"
+     1 string msgStr = "Hell Biker"
+   [351]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0351"
+     1 string msgStr = "Daisoujou"
+   [352]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0352"
+     1 string msgStr = "Mother Harlot"
+   [353]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0353"
+     1 string msgStr = "Trumpeter"
+   [354]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0354"
+     1 string msgStr = "Futomimi"
+   [355]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0355"
+     1 string msgStr = "Sakahagi"
+   [356]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0356"
+     1 string msgStr = "Seven-Eye"
+   [357]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0357"
+     1 string msgStr = "Beelzebub (Man)"
+   [358]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0358"
+     1 string msgStr = "Loa"
+   [359]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0359"
+     1 string msgStr = "Virtue"
+   [360]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0360"
+     1 string msgStr = "Power"
+   [361]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0361"
+     1 string msgStr = "Legion"
+   [362]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0362"
+     1 string msgStr = ""
+   [363]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0363"
+     1 string msgStr = ""
+   [364]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0364"
+     1 string msgStr = ""
+   [365]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0365"
+     1 string msgStr = ""
+   [366]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0366"
+     1 string msgStr = ""
+   [367]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0367"
+     1 string msgStr = ""
+   [368]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0368"
+     1 string msgStr = ""
+   [369]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0369"
+     1 string msgStr = ""
+   [370]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0370"
+     1 string msgStr = ""
+   [371]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0371"
+     1 string msgStr = ""
+   [372]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0372"
+     1 string msgStr = ""
+   [373]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0373"
+     1 string msgStr = ""
+   [374]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0374"
+     1 string msgStr = ""
+   [375]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0375"
+     1 string msgStr = ""
+   [376]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0376"
+     1 string msgStr = ""
+   [377]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0377"
+     1 string msgStr = ""
+   [378]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0378"
+     1 string msgStr = ""
+   [379]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0379"
+     1 string msgStr = ""
+   [380]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0380"
+     1 string msgStr = ""
+   [381]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0381"
+     1 string msgStr = ""
+   [382]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0382"
+     1 string msgStr = ""
+   [383]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0383"
+     1 string msgStr = ""
+   [384]
+    0 MsgData data
+     1 string msgID = "DEVIL_L0384"
+     1 string msgStr = ""
+   [385]
+    0 MsgData data
+     1 string msgID = "DEVILMC_L0192"
+     1 string msgStr = "Raidou"
+   [386]
+    0 MsgData data
+     1 string msgID = "DEVILMC_L0339"
+     1 string msgStr = "Raidou"
+   [387]
+    0 MsgData data
+     1 string msgID = "DEVILMC_L0340"
+     1 string msgStr = "Raidou"
+   [388]
+    0 MsgData data
+     1 string msgID = "DEVILMC_L0341"
+     1 string msgStr = "Raidou"
+ 1 string _convDateTime = "2020/12/11 11:56:34"
