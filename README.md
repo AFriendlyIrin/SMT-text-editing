@@ -38,11 +38,29 @@ I don't know Japanese myself, so I can only go off machine translations to get a
 |Foul   |Anathema/Pariah
 
 ## Patches
-* SMT1: Not yet.
-* SMT2: IPS patch can be downloaded here or on Romhacking.net.
-* SMT if: IPS patch can be downloaded here or on Romhacking.net.
-* SMT3 (HD): If you have Switch CFW that supports LayeredFS, the mod file can be downloaded here. I don't have access to the PC version.
-* Devil Survivor 1 & 2: Progress currently stalled. The ROM uses nonstandard encryption. There's a tool meant for decoding it, but it doesn't seem to work for these games.
+### SMT1
+Coming soon.
+
+### SMT2
+IPS patch can be downloaded here or on [Romhacking.net](https://www.romhacking.net/translations/6712/). The patch also includes my quality-of-life improvements to the original Aeon Genesis translation patch, mainly because they let you actually see the fancy new race names. Atlus instruction files are included here if you would like to make your own edits.
+
+### SMT if
+IPS patch can be downloaded here or on [Romhacking.net](https://www.romhacking.net/translations/6733/). Atlus instruction files are included here if you would like to make your own edits.
+
+There are currently some problems with race names getting truncated in the fusion screen, which only allows race names up to 8 characters. This could be fixed with a subroutine to print shortened forms, like what already exists for demon names and items, but I don't know how to do that.
+
+### SMT3
+* **Switch**: If you have a Switch CFW that supports LayeredFS, the modded file can be downloaded here. I have also included the text files if you want to make your own edits; they can be added to the common_en file with Unity compilation programs such as UABE Avalonia.
+* **PC**: I don't have access to this version, but I would like to mod it if possible.
+* **PS2**: I have no idea how to mod PS2 games.
+
+Notes:
+* The Phantom demon is renamed to "Wraith", because the Spirit/Wraith race is not present in this game.
+* I changed Haunt to "Undead" rather than "Revenant", since there is only one type of undead here.
+* The Tyrant race is unchanged so that Lucifer can remain a special boy.
+
+### DS/3DS games (Strange Journey, Soul Hackers, Devil Survivor)
+Progress currently stalled, as Atlus DS games use nonstandard encryption. The [Atlus Packer by CUE](https://www.romhacking.net/utilities/871/) is supposed to be able to decrypt it, but it doesn't seem to work for these games. Contact me if you have a solution.
 
 ## Explanations
 For the curious, here are my justifications for the changes.
