@@ -17,7 +17,7 @@
    [1]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0001"
-     1 string msgStr = "Votary"
+     1 string msgStr = "Paladin"
    [2]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0002"
@@ -25,55 +25,55 @@
    [3]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0003"
-     1 string msgStr = "Soldier"
+     1 string msgStr = "Brute"
    [4]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0004"
-     1 string msgStr = "Zealot"
+     1 string msgStr = "Saint"
    [5]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0005"
-     1 string msgStr = "Expert"
+     1 string msgStr = "Master"
    [6]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0006"
-     1 string msgStr = "Battler"
+     1 string msgStr = "Heretic"
    [7]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0007"
-     1 string msgStr = "Saint"
+     1 string msgStr = "Messiah"
    [8]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0008"
-     1 string msgStr = "Master"
+     1 string msgStr = "Ascendant"
    [9]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0009"
-     1 string msgStr = "Slayer"
+     1 string msgStr = "Antichrist"
    [10]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0010"
-     1 string msgStr = "Spirit"
+     1 string msgStr = "Almighty"
    [11]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0011"
-     1 string msgStr = "Phenom"
+     1 string msgStr = "Deity"
    [12]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0012"
-     1 string msgStr = "Lord"
+     1 string msgStr = "Devil"
    [13]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0013"
-     1 string msgStr = "King"
+     1 string msgStr = "King of Kings"
    [14]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0014"
-     1 string msgStr = "King"
+     1 string msgStr = "King of Kings"
    [15]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0015"
-     1 string msgStr = "King"
+     1 string msgStr = "King of Kings"
    [16]
     0 MsgData data
      1 string msgID = "RACE_L0000"
@@ -153,7 +153,7 @@
    [35]
     0 MsgData data
      1 string msgID = "RACE_L0019"
-     1 string msgStr = "Tyrant"
+     1 string msgStr = "Archdemon"
    [36]
     0 MsgData data
      1 string msgID = "RACE_L0020"
@@ -169,7 +169,7 @@
    [39]
     0 MsgData data
      1 string msgID = "RACE_L0023"
-     1 string msgStr = "Pariah"
+     1 string msgStr = "Wretch"
    [40]
     0 MsgData data
      1 string msgID = "RACE_L0024"
@@ -181,7 +181,7 @@
    [42]
     0 MsgData data
      1 string msgID = "RACE_L0026"
-     1 string msgStr = "Phantom"
+     1 string msgStr = "Demigod"
    [43]
     0 MsgData data
      1 string msgID = "RACE_L0027"
@@ -189,7 +189,7 @@
    [44]
     0 MsgData data
      1 string msgID = "RACE_L0028"
-     1 string msgStr = "Beast God"
+     1 string msgStr = "Eidolon"
    [45]
     0 MsgData data
      1 string msgID = "RACE_L0029"
@@ -209,15 +209,15 @@
    [49]
     0 MsgData data
      1 string msgID = "RACE_L0033"
-     1 string msgStr = "Corpus"
+     1 string msgStr = "Body"
    [50]
     0 MsgData data
      1 string msgID = "RACE_L0034"
-     1 string msgStr = "Zoa"
+     1 string msgStr = "Soul"
    [51]
     0 MsgData data
      1 string msgID = "RACE_L0035"
-     1 string msgStr = "Hallel"
+     1 string msgStr = "Redeemed"
    [52]
     0 MsgData data
      1 string msgID = "RACE_L0036"
