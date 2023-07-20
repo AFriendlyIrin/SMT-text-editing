@@ -88,7 +88,7 @@ Reasoning documentation for all the changes.
 * **Lady → Mother** is because the Japanese (地母神) means "Mother Goddess", at least according to Google, which I'm inclined to believe because that's what members of this race are. I'm honestly baffled the official localization didn't go with this, especially given how confusing "Lady" is when "Femme" also exists. I was very confused whether the two were supposed to be related the first time I played.
   * Conflict: "Mother" is also Mem Aleph (*Strange Journey*)'s race. Personally, I don't care about this too much. Not every final boss needs to have a truly unique race. If space limits permit, it might be possible to change it to "Great Mother", since she can't be obtained by the player so menu space contraints are not an issue.
 * **Fury → Destroyer** or **Omega** is to avoid confusion with the Greek Furies, which are also present in the franchise.
-  * "Destroyer" can run into text limits in some games, so "Omega" is a more economical alternative.
+  * "Destroyer" can run into text limits in some games, so "Omega" is a more economical alternative. (Unfortunately, thanks to my knowledge of the ABO fandom, I can't use it with a straight face.)
 * **Night → Nightmare** should hopefully need no explanation. The only issue is character limits, as some games are limited to 7 characters or even less.
   * To avoid confusion, the "Nightmare" demon can be renamed to "Marre", an older name for the same creature.
 * **Femme → Fatale**. I think this is supposed to mean "femme" in the context of "femme fatale", but I'd rather make that explicit. The feminine ending on "Fatale" combined with the demons all being women should make the connotation clear, I think.
@@ -101,6 +101,10 @@ Reasoning documentation for all the changes.
   * Alternative: **Anathema**, **Pariah**, or **Abomination**. The Japanese (外道) literally means "Wrong Path", but colloquially means heterodoxy or heresy. The idea of these things being heretical by their nature is so interesting, and that's not at all conveyed by just calling them "foul". However, I feel like "Anathema" and "Pariah" make them sound too important, which conflicts with their patheticness. "Abomination" would be perfect, but it's way too long.
 
 ### Game-Specific Races
+#### Shin Megami Tensei II
+* **Godly → The One God**. This is accurate to YHVH's title in Megami Tensei II (唯一神, "Only God"), and given SMT2 both echoes this beat from MT2 and features YHVH at his most villainous, I wanted to use this instead of the less dramatic "Almighty". (Also, it's hilariously ironic given SMT2 features two YHVHs.)
+#### Soul Hackers
+* **Great → Great Spirit** because that's literally what Manitou is and literally what the Japanese (大霊) is. Stop using adjective names, localizers, this is an enemy-exclusive race, you don't have to abbreviate it.
 #### Digital Devil Saga
 * **Fiend (DDS1) / Nether → Mystic**. "Fiend" is a different race in the rest of the franchise, so it was a very poor choice in this case. The Japanese is just "Demon Tribe" (魔族) which isn't helpful, but the term is translated as "Magica" elsewhere in the series and its constituents are specifically the most mystical/magical/esoteric demons.
 * In DDS1, **Demon → Brute** & **Evil → Icon** for consistency with DDS2.
