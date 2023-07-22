@@ -99,6 +99,7 @@ Reasoning documentation for all the changes.
 
 ### Game-Specific Races
 #### Shin Megami Tensei II
+* **Jirae → Dwarf** (rather than "Terran") due to the elves vs. dwarves subplot making that feel more apropos. (Note that I couldn't change the message strings, so the NPC dialogue and such will still call them "Chirei".)
 * **Godly → The One God**. This is accurate to YHVH's title in Megami Tensei II (唯一神, "Only God"), and given SMT2 both echoes this beat from MT2 and features YHVH at his most villainous, I wanted to use this instead of the less dramatic "Almighty". (Also, it's hilariously ironic given SMT2 features two YHVHs.)
 #### Shin Megami Tensei III
 * **Vile → Wicked** (rather than "Devil") to preserve the grammar of the negotiation dialogue "You're talking to me knowing I'm Vile?" As there is no Jaki race in SMT3, this isn't an issue.
