@@ -101,8 +101,11 @@ Reasoning documentation for all the changes.
 #### Shin Megami Tensei II
 * **Godly → The One God**. This is accurate to YHVH's title in Megami Tensei II (唯一神, "Only God"), and given SMT2 both echoes this beat from MT2 and features YHVH at his most villainous, I wanted to use this instead of the less dramatic "Almighty". (Also, it's hilariously ironic given SMT2 features two YHVHs.)
 #### Shin Megami Tensei III
-* **Vile → Wicked** to preserve the grammar of the negotiation dialogue "You're talking to me knowing I'm Vile?" As there is no Jaki race in SMT3, this isn't an issue.
+* **Vile → Wicked** (rather than "Devil") to preserve the grammar of the negotiation dialogue "You're talking to me knowing I'm Vile?" As there is no Jaki race in SMT3, this isn't an issue.
 * **Haunt → Undead** rather than Revenant because there's no regular Undead in SMT3.
+* **Corpus → Body** means the same thing but is less pretentious.
+* **Zoa → Splinter**: I have no idea what the localizers were trying to convey, but the Japanese is "Separated Soul" (分霊) and this conveys the idea they're born of Albion, which is kind of important to understanding his gimmick.
+* **Hallel → Redeemed**: "Hallel" is a *prayer*; using it to denote a class of creatures is nonsensical. It's like they were desperately scraping the bottom of the barrel for whatever vaguely Judeo-Christian word hadn't been used already. The Japanese is "Seraph", which is also dumb because that's not what they are. I'm just going to go with "Redeemed" because that *is* what they are.
 * **Mother Harlot → Whore of Babylon**: Not a race name but it bugged me. I'm familiar the second name but I've never heard the first outside of SMT.
 
 Additionally, the Demi-fiend's unique races were changed. Few of these are accurate to the Japanese, but the Japanese is mostly word salad as far as I can tell, so I chose to focus on making their alignments clearer. I generally "punched up" the titles to give them more oomph, and tried to follow a pattern of tier 1 = followers/initiates, tier 2 = spiritual leaders, tier 3 = supernaturally empowered humans, and tier 4 = gods.
