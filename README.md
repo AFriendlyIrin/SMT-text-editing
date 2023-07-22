@@ -51,10 +51,6 @@ There are currently some problems with race names getting truncated in the fusio
 * **PC**: I don't have access to this version, but I would like to mod it if possible.
 * **PS2**: I've judged this unnecessary for now given the existence of the HD version.
 
-Notes:
-* The Phantom demon is renamed to "Wraith", because the Spirit/Wraith race is not present in this game.
-* I changed Haunt to "Undead" rather than "Revenant", since there is only one type of undead here.
-
 ### Digital Devil Saga
 xDelta patches can be downloaded here or on Romhacking.net ([DDS1](https://www.romhacking.net/hacks/7935/), [DDS2](https://www.romhacking.net/hacks/7916/)).
 
@@ -103,6 +99,17 @@ Reasoning documentation for all the changes.
 ### Game-Specific Races
 #### Shin Megami Tensei II
 * **Godly → The One God**. This is accurate to YHVH's title in Megami Tensei II (唯一神, "Only God"), and given SMT2 both echoes this beat from MT2 and features YHVH at his most villainous, I wanted to use this instead of the less dramatic "Almighty". (Also, it's hilariously ironic given SMT2 features two YHVHs.)
+#### Shin Megami Tensei III
+* **Vile → Wicked** to preserve the grammar of the negotiation dialogue "You're talking to me knowing I'm Vile?" As there is no Jaki race in SMT3, this isn't an issue.
+* **Haunt → Undead** rather than Revenant because there's no regular Undead in SMT3.
+* **Mother Harlot → Whore of Babylon**: Not a race name but it bugged me. I'm familiar the second name but I've never heard the first outside of SMT.
+
+Additionally, the Demi-fiend's unique races were changed. Few of these are accurate to the Japanese, but the Japanese is mostly word salad as far as I can tell, so I chose to focus on making their alignments clearer. I generally "punched up" the titles to give them more oomph, and tried to follow a pattern of tier 1 = followers/initiates, tier 2 = spiritual leaders, tier 3 = supernaturally empowered humans, and tier 4 = gods.
+* **Votary → Paladin** & **Soldier → Brute**
+* **Expert → Master** & **Battler → Heretic**
+* **Saint → Messiah**, **Master → Ascendant**, & **Slayer → Antichrist**
+* **Spirit → Almighty** (Japanese is the same term localized as "Godly" elsewhere), **Phenom → Deity**, & **Lord → Devil**
+* **King → King of Kings**, because "King" alone does not have the punch of conveying you are *stronger than God*. This has the double bonus of being both a Jesus reference and a logical description of the rank that requires you to be master of everything.
 #### Soul Hackers
 * **Great → Great Spirit** because that's literally what Manitou is and literally what the Japanese (大霊) is. Stop using adjective names, localizers, this is an enemy-exclusive race, you don't have to abbreviate it.
 #### Digital Devil Saga
