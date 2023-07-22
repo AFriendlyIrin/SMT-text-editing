@@ -1421,7 +1421,7 @@
    [352]
     0 MsgData data
      1 string msgID = "DEVIL_L0352"
-     1 string msgStr = "Whore of Bablyon"
+     1 string msgStr = "Whore of Babylon"
    [353]
     0 MsgData data
      1 string msgID = "DEVIL_L0353"

@@ -1,0 +1,125 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = -8288542040126629907
+ 1 string m_Name = "DATHEARTSHELP_EN"
+ 0 MsgData _eventEMsgData
+  0 Array Array (28 items)
+   0 int size = 28
+   [0]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0000"
+     1 string msgStr = "<material="MsgFont0">Repel: Dark\nWeak: Light\nSt <material="MsgFont4">+1<material="MsgFont0"> Ma <material="MsgFont4">+1<material="MsgFont0"> Vi <material="MsgFont4">+2<material="MsgFont0"> Ag <material="MsgFont4">+1<material="MsgFont0"> Lu <material="MsgFont4">+1"
+   [1]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0001"
+     1 string msgStr = "Imparts basic skills\nNormal resistance"
+   [2]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0002"
+     1 string msgStr = "Imparts Ice magic\n<material="MsgFont2">Null: Ice<material="MsgFont0"> <material="MsgFont1">Weak: Elec"
+   [3]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0003"
+     1 string msgStr = "Imparts healing magic\n<material="MsgFont2">Null: Light<material="MsgFont0"> <material="MsgFont1">Weak: Dark"
+   [4]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0004"
+     1 string msgStr = "Imparts debilitation magic\n<material="MsgFont2">Null: Mind \n(Panic/Charm/Sleep）"
+   [5]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0005"
+     1 string msgStr = "Imparts Fire magic\n<material="MsgFont2">Null: Fire<material="MsgFont0"> <material="MsgFont1">Weak: Force"
+   [6]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0006"
+     1 string msgStr = "Imparts Force magic\n<material="MsgFont2">Null: Force<material="MsgFont0"> <material="MsgFont1">Weak: Fire"
+   [7]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0007"
+     1 string msgStr = "Imparts Physical skills\n<material="MsgFont2">Strong: Phys<material="MsgFont0"> <material="MsgFont1">Weak: Ailments"
+   [8]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0008"
+     1 string msgStr = "Imparts Electricity magic\n<material="MsgFont2">Null: Elec<material="MsgFont0"> <material="MsgFont1">Weak: Ice"
+   [9]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0009"
+     1 string msgStr = "Imparts Dark magic\n<material="MsgFont2">Null: Dark<material="MsgFont0"> <material="MsgFont1">Weak: Light"
+   [10]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0010"
+     1 string msgStr = "Imparts ultimate Ice magic\n<material="MsgFont2">Null: Ice<material="MsgFont0"> <material="MsgFont1">Weak: Fire"
+   [11]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0011"
+     1 string msgStr = "Imparts Light magic\n<material="MsgFont2">Null: Light<material="MsgFont0"> <material="MsgFont1">Weak: Dark"
+   [12]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0012"
+     1 string msgStr = "Imparts ailment-nullifying skills\n<material="MsgFont2">Strong: Phys<material="MsgFont0"> <material="MsgFont1">Weak: Fire/Ice"
+   [13]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0013"
+     1 string msgStr = "Imparts advanced healing magic\n<material="MsgFont2">Null: Light"
+   [14]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0014"
+     1 string msgStr = "Imparts support magic\n<material="MsgFont2">Null: Curse \n(Mute/Poison)"
+   [15]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0015"
+     1 string msgStr = "Imparts ailment magic\n<material="MsgFont2">Strong: Ailments"
+   [16]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0016"
+     1 string msgStr = "Imparts ultimate Fire magic\n<material="MsgFont2">Drain: Fire<material="MsgFont0"> <material="MsgFont1">Weak: Ice"
+   [17]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0017"
+     1 string msgStr = "Imparts advanced Physical skills\n<material="MsgFont2">Strong: Phys<material="MsgFont0"> <material="MsgFont1">Weak: All types of magic"
+   [18]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0018"
+     1 string msgStr = "Imparts unusual abilities\n<material="MsgFont2">Null: Dark<material="MsgFont0"> <material="MsgFont1">Weak: Light"
+   [19]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0019"
+     1 string msgStr = "Imparts ultimate Electricity magic\n<material="MsgFont2">Repel: Elec<material="MsgFont0"> <material="MsgFont1">Weak: Force"
+   [20]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0020"
+     1 string msgStr = "Imparts advanced Physical skills\n<material="MsgFont2">Null: Nerve \n(Stun/Bind)"
+   [21]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0021"
+     1 string msgStr = "Imparts ultimate Force magic\n<material="MsgFont2">Drain: Force<material="MsgFont0"> <material="MsgFont1">Weak: Elec"
+   [22]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0022"
+     1 string msgStr = "Imparts ultimate healing and Light magic\n<material="MsgFont2">Null: Light"
+   [23]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0023"
+     1 string msgStr = "Imparts ultimate Physical skills\n<material="MsgFont2">Strong: Phys<material="MsgFont0"> <material="MsgFont1">Weak: Force/Light/Dark"
+   [24]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0024"
+     1 string msgStr = "Imparts protection and Almighty magic\nNormal resistance"
+   [25]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0025"
+     1 string msgStr = "Magatama that holds ultimate power\n<material="MsgFont2">Null: All except Almighty"
+   [26]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0026"
+     1 string msgStr = "Resist: Fire\nImparts Fire magic"
+   [27]
+    0 MsgData data
+     1 string msgID = "DATHEARTSHELP_L0027"
+     1 string msgStr = "Resist: Fire\nImparts Fire magic"
+ 1 string _convDateTime = "2020/11/26 15:16:12"

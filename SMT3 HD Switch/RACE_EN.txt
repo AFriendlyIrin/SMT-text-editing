@@ -29,7 +29,7 @@
    [4]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0004"
-     1 string msgStr = "Saint"
+     1 string msgStr = "Zealot"
    [5]
     0 MsgData data
      1 string msgID = "PLAYERRACE_L0005"
@@ -137,7 +137,7 @@
    [31]
     0 MsgData data
      1 string msgID = "RACE_L0015"
-     1 string msgStr = "Terrae"
+     1 string msgStr = "Terran"
    [32]
     0 MsgData data
      1 string msgID = "RACE_L0016"
@@ -213,7 +213,7 @@
    [50]
     0 MsgData data
      1 string msgID = "RACE_L0034"
-     1 string msgStr = "Soul"
+     1 string msgStr = "Splinter"
    [51]
     0 MsgData data
      1 string msgID = "RACE_L0035"

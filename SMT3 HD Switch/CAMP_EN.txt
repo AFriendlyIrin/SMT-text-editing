@@ -1,0 +1,221 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = -8288542040126629907
+ 1 string m_Name = "CAMP_EN"
+ 0 MsgData _eventEMsgData
+  0 Array Array (52 items)
+   0 int size = 52
+   [0]
+    0 MsgData data
+     1 string msgID = "CAMP_L0000"
+     1 string msgStr = "Equip"
+   [1]
+    0 MsgData data
+     1 string msgID = "CAMP_L0001"
+     1 string msgStr = "Unequip"
+   [2]
+    0 MsgData data
+     1 string msgID = "CAMP_L0002"
+     1 string msgStr = "Summoned"
+   [3]
+    0 MsgData data
+     1 string msgID = "CAMP_L0003"
+     1 string msgStr = "No demons to extract from"
+   [4]
+    0 MsgData data
+     1 string msgID = "CAMP_L0004"
+     1 string msgStr = "Expend"
+   [5]
+    0 MsgData data
+     1 string msgID = "CAMP_L0005"
+     1 string msgStr = "COMMAND MENU"
+   [6]
+    0 MsgData data
+     1 string msgID = "CAMP_L0006"
+     1 string msgStr = "What will you use?"
+   [7]
+    0 MsgData data
+     1 string msgID = "CAMP_L0007"
+     1 string msgStr = "STATS"
+   [8]
+    0 MsgData data
+     1 string msgID = "CAMP_L0008"
+     1 string msgStr = "PARTY"
+   [9]
+    0 MsgData data
+     1 string msgID = "CAMP_L0009"
+     1 string msgStr = "ITEM"
+   [10]
+    0 MsgData data
+     1 string msgID = "CAMP_L0010"
+     1 string msgStr = "Who will use a skill?"
+   [11]
+    0 MsgData data
+     1 string msgID = "CAMP_L0011"
+     1 string msgStr = "On whom will this be used?"
+   [12]
+    0 MsgData data
+     1 string msgID = "CAMP_L0012"
+     1 string msgStr = "What will you use?"
+   [13]
+    0 MsgData data
+     1 string msgID = "CAMP_L0013"
+     1 string msgStr = "GEMS"
+   [14]
+    0 MsgData data
+     1 string msgID = "CAMP_L0014"
+     1 string msgStr = "KEY ITEMS"
+   [15]
+    0 MsgData data
+     1 string msgID = "CAMP_L0015"
+     1 string msgStr = "Which will you ingest?"
+   [16]
+    0 MsgData data
+     1 string msgID = "CAMP_L0016"
+     1 string msgStr = "Which will you unequip?"
+   [17]
+    0 MsgData data
+     1 string msgID = "CAMP_L0017"
+     1 string msgStr = "From whom will you extract?"
+   [18]
+    0 MsgData data
+     1 string msgID = "CAMP_L0018"
+     1 string msgStr = "Who will you summon?"
+   [19]
+    0 MsgData data
+     1 string msgID = "CAMP_L0019"
+     1 string msgStr = "Who will you return?"
+   [20]
+    0 MsgData data
+     1 string msgID = "CAMP_L0020"
+     1 string msgStr = "Who will you part with?"
+   [21]
+    0 MsgData data
+     1 string msgID = "CAMP_L0021"
+     1 string msgStr = "What will you discard?"
+   [22]
+    0 MsgData data
+     1 string msgID = "CAMP_L0022"
+     1 string msgStr = "Use"
+   [23]
+    0 MsgData data
+     1 string msgID = "CAMP_L0023"
+     1 string msgStr = "Discard"
+   [24]
+    0 MsgData data
+     1 string msgID = "CAMP_L0024"
+     1 string msgStr = "Gems"
+   [25]
+    0 MsgData data
+     1 string msgID = "CAMP_L0025"
+     1 string msgStr = "Key Items"
+   [26]
+    0 MsgData data
+     1 string msgID = "CAMP_L0026"
+     1 string msgStr = "St"
+   [27]
+    0 MsgData data
+     1 string msgID = "CAMP_L0027"
+     1 string msgStr = "In"
+   [28]
+    0 MsgData data
+     1 string msgID = "CAMP_L0028"
+     1 string msgStr = "Ma"
+   [29]
+    0 MsgData data
+     1 string msgID = "CAMP_L0029"
+     1 string msgStr = "Vi"
+   [30]
+    0 MsgData data
+     1 string msgID = "CAMP_L0030"
+     1 string msgStr = "Ag"
+   [31]
+    0 MsgData data
+     1 string msgID = "CAMP_L0031"
+     1 string msgStr = "Lu"
+   [32]
+    0 MsgData data
+     1 string msgID = "CAMP_L0032"
+     1 string msgStr = "Summon"
+   [33]
+    0 MsgData data
+     1 string msgID = "CAMP_L0033"
+     1 string msgStr = "Return to stock"
+   [34]
+    0 MsgData data
+     1 string msgID = "CAMP_L0034"
+     1 string msgStr = "Part with"
+   [35]
+    0 MsgData data
+     1 string msgID = "CAMP_L0035"
+     1 string msgStr = "Item"
+   [36]
+    0 MsgData data
+     1 string msgID = "CAMP_L0036"
+     1 string msgStr = "Skill"
+   [37]
+    0 MsgData data
+     1 string msgID = "CAMP_L0037"
+     1 string msgStr = "Party"
+   [38]
+    0 MsgData data
+     1 string msgID = "CAMP_L0038"
+     1 string msgStr = "Magatama"
+   [39]
+    0 MsgData data
+     1 string msgID = "CAMP_L0039"
+     1 string msgStr = "Stats"
+   [40]
+    0 MsgData data
+     1 string msgID = "CAMP_L0040"
+     1 string msgStr = "Config"
+   [41]
+    0 MsgData data
+     1 string msgID = "CAMP_L0042"
+     1 string msgStr = "Yes"
+   [42]
+    0 MsgData data
+     1 string msgID = "CAMP_L0043"
+     1 string msgStr = "No"
+   [43]
+    0 MsgData data
+     1 string msgID = "CAMP_L0044"
+     1 string msgStr = "Ingest"
+   [44]
+    0 MsgData data
+     1 string msgID = "CAMP_L0045"
+     1 string msgStr = "Do not ingest"
+   [45]
+    0 MsgData data
+     1 string msgID = "CAMP_L0046"
+     1 string msgStr = "Suspend"
+   [46]
+    0 MsgData data
+     1 string msgID = "CAMP_L0049"
+     1 string msgStr = "STR"
+   [47]
+    0 MsgData data
+     1 string msgID = "CAMP_L0050"
+     1 string msgStr = "MAG"
+   [48]
+    0 MsgData data
+     1 string msgID = "CAMP_L0051"
+     1 string msgStr = "VIT"
+   [49]
+    0 MsgData data
+     1 string msgID = "CAMP_L0052"
+     1 string msgStr = "AGL"
+   [50]
+    0 MsgData data
+     1 string msgID = "CAMP_L0053"
+     1 string msgStr = "LUK"
+   [51]
+    0 MsgData data
+     1 string msgID = "CAMP_L0054"
+     1 string msgStr = "Save failed."
+ 1 string _convDateTime = "2020/11/26 18:28:29"
