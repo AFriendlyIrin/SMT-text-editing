@@ -48,6 +48,7 @@ There are currently some problems with race names getting truncated in the fusio
 
 ### SMT3
 * **Switch**: If you have a Switch CFW that supports LayeredFS, the modded file can be downloaded here. I have also included the text files if you want to make your own edits; they can be added to the common_en file with Unity compilation programs such as UABE Avalonia.
+  * The file provided here also provides more detailed Magatama info (advanced counterparts of basic Magatama are labeled as such, notes that Sophia teaches you both healing and Light magic, etc.) and capitalizes stat abbreviations, because I think it looks better that way. If only want one of the changes, you'll have to dump a fresh common_en file from your game and manually import the specific text files you want.
 * **PC**: I don't have access to this version, but I would like to mod it if possible.
 * **PS2**: I've judged this unnecessary for now given the existence of the HD version.
 
