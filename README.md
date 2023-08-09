@@ -16,33 +16,29 @@ There is a major issue to any project of this type: Space limitations. The Japan
 One way around this would be if abbreviated versions could be substituted into cramped text fields; the Aeon Genesis fan translation of *SMT: if* does for equipment and demon names, but I'm not skilled enough at programming to replicate their algorithm in other games.
 
 ## Name Changes
-|Original |New |&nbsp; |Original |New
-|--- |--- |--- |--- |---
-|Megami |Goddess  ||Entity |Forgotten
-|Jirae  |Terran   ||Godly  |Almighty
-|Jaki   |Wicked   ||Tyrant |Archdemon
-|Touki  |Warrior  ||Lady   |Mother
-|Genma  |Demigod  ||Fury   |Destroyer/Omega
-|Yoma   |Spirit   ||Wood   |Plant
-|Spirit |Wraith   ||Vile   |Devil
-|Divine |Angel    ||Avatar |Eidolon
-|Herald/Seraph |Archangel ||Wilder |Monster
-|Flight |Bird     ||Holy   |Mythic
-|Avian  |Herald   ||Fairy  |Fey
-|Snake  |Drake    ||Night  |Nightmare
-|Drake  |Wyrm     ||Femme  |Fatale
-|Zealot |Madman   ||UMA    |Cryptid
-|Haunt/Ghost  |Revenant ||Foul   |Wretch
+|Original |New |&nbsp; |Original |New |&nbsp; |Original |New
+|--- |--- |--- |--- |--- |--- |--- |---
+|Megami |Goddess  ||Foul   |Wretch    ||Entity/Geist  |Ancient
+|Jirae  |Erdgeist ||Wood   |Flora     ||Godly         |Almighty
+|Yoma   |Spirit   ||Wilder |Monster   ||Herald/Seraph |Archangel
+|Jaki   |Wicked   ||Tyrant |Archdemon ||Meta          |Metahuman
+|Touki  |Warrior  ||Lady   |Mother    ||Haunt/Ghost   |Revenant
+|Genma  |Liminal  ||Zealot |Madman    ||Fury          |Destroyer/Omega
+|Spirit |Wraith   ||Vile   |Devil     ||UMA           |Cryptid
+|Flight |Bird     ||Divine |Angel     ||Holy          |Mythic
+|Fairy  |Fey      ||Femme  |Fatale    ||Avatar        |Eidolon
+|Snake  |Drake    ||Night  |Nightmare ||Avian         |Herald
+|Drake  |Wyrm     || | || |
 
 ## Patches
 ### SMT1
-Hit a snag due to an inability to find an English translation-compatible ROM to work with. Now that the GBA translation is out, I may just focus on that instead.
+Hit a snag due to an inability to find an English translation-compatible ROM to work with. I'd like to do the PSX version now that there's an English translation out for it, but [I can't decompress the text data.](https://forum.xentax.com/viewtopic.php?p=193294#p193294) Contact me if you know how to do so.
 
 ### SMT2
-IPS patch can be downloaded here or on [Romhacking.net](https://www.romhacking.net/translations/6712/). The patch also includes my quality-of-life improvements to the original Aeon Genesis translation patch, mainly because they let you actually see the fancy new race names. Atlus instruction files are included here if you would like to make your own edits.
+IPS patch can be downloaded here or on [Romhacking.net](https://www.romhacking.net/translations/6712/). The patch also includes my quality-of-life improvements to the original Aeon Genesis translation patch, mainly because they let you actually see the fancy new race names. Atlas instruction files are included here if you would like to make your own edits.
 
 ### SMT if
-IPS patch can be downloaded here or on [Romhacking.net](https://www.romhacking.net/translations/6733/). Atlus instruction files are included here if you would like to make your own edits.
+IPS patch can be downloaded here or on [Romhacking.net](https://www.romhacking.net/translations/6733/). Atlas instruction files are included here if you would like to make your own edits.
 
 There are currently some problems with race names getting truncated in the fusion screen, which only allows race names up to 8 characters. This could be fixed with a subroutine to print shortened forms, like what already exists for demon names and items, but I don't know how to do that.
 
@@ -62,20 +58,24 @@ xDelta patches can be downloaded here or on Romhacking.net ([DDS1](https://www.r
 Reasoning documentation for all the changes.
 
 * Megami translates directly to "Goddess".
-* Jirae is a Romanization of the Japanese *Chirei* (地霊), which Google tells me means "Earth Spirit". That certainly describes the creatures included under the race. "Gaian" would have been perfect, but that's already taken by followers of the Ring of Gaea; maybe that's why the localizers gave up? I just used the Roman word for the same thing, "Terran".
-  * Another possibility is "Erdgeist", the German word for the same concept, but that's just swapping out one untranslated word for another.
-  * Another possibility is "Earthen", but I don't like adjective race names and it may look too similar to "Erthys".
+* Jirae is a Romanization of the Japanese *Chirei* (地霊), which Google tells me means "Earth Spirit". That certainly describes the creatures included under the race. "Gaian" would have been perfect, but that's already taken by followers of the Ring of Gaea; maybe that's why the localizers gave up? Since English doesn't have a good term for this I also gave up and used a foreign loanword: "Erdgeist", the German word for the same concept. Unfortunately, at 8 characters this one is too long for some games. Alternates:
+  * "Terran", which technically fits but its predominant association in pop culture is what aliens call humans.
+  * "Earthen", but I don't like adjective race names and it may look too similar to "Erthys".
 * Jaki (邪鬼) is literally "Evil Demon" according to Google. That sounds redundant in English, and any variant on "demon" is going to be tortured when this is a game where everything is a demon. I chose to just emphasize the "evil" part to settle on "Wicked", which also works as a noun.
 * Yoma (妖魔) means "Mystical Demon" or "Apparition" according to Google. I assume this word refers to a concept that doesn't translate well to Western mythology, but given the specific demons included in the race (mystic beings like djinn and minor gods like apsaras) I feel the general "Spirit" covers them.
 * **Spirit → Wraith**: Of course, that means we have to change the "Spirit" race. "Spirit" does not at all convey that these are specifically supposed to be *evil* spirits, which is important because players need to know which races are and aren't friendly. I think the more menacing "Wraith" conveys this.
 * Touki (闘鬼) means "Battle Spirit" according to Google. They're the neutral counterpart to the Brute race, which I think "Warrior" conveys. Pretty baffled why the official localization gave up on this one.
-* Genma (幻魔) means an illusory creature, but in practice the actual lineup seems to consist of demigods, minor gods, and folk heroes, so I think "demigod" is more appropriate.
-* **Entity → Forgotten** because that's what they are.
+* Genma (幻魔) means an illusory creature. [Eirikr](https://personacentral.com/nocturnal-revelations-the-legacy-of-shin-megami-tenseis-first-localization-part-2/) proposes a translation of "Liminal", which I like; it's an adjective, but one that works as a noun.
+* **Entity → Ancient** because that's what they are. The Japanese (威霊) means "Spirit of Authority", which doesn't fit with the actual members of this race in my opinion.
 * **Godly → Almighty** because come on, this is *the* God we're talking about here. I can see why the localization used the more waffling "godly", as the Japanese is "Godly Spirit" (神霊) rather than the Japanese word for "god", but seriously. If we're supposed to believe YHVH is on a different level than all the other gods we encounter, his race name better have some oomph to it. "Almighty" has the bonuses of being a Christian term, a common epithet for Yahweh, and connection to the in-game Almighty element.
 * **Divine → Angel** & **Herald → Archangel** because that's what they are (and what they are in Japanese). I can understand why the localizers didn't translate them this way; it creates confusion with the Angel and Archangel demons, the former of which is now the absurdity that is "Angel Angel". The Japanese got around this by writing the race names in kanji and the demon names in katakana, but English has no equivalent trick. If you can think of some way to make that work in English, I'm all ears.
 * **Tyrant → Archdemon**: The Japanese (魔王) means "Demon Lord" and I felt that leaving out the "demon" part in a game about demons is a glaring oversight. I can see the reasoning here if you interpret "demon lord" as "evil lord", but come on. These are the big bad major story bosses, they need more oomph. "Archdemon" works well for this purpose, and as a bonus makes for a nice parallel with "Archangel", as the two races are of approximately equal importance.
+* **Meta → Metahuman** should be self-explanatory.
 * **Flight → Bird** should need no explanation. Why they didn't do it that way in the first place is beyond me. "Flight" is an action, not a creature, Atlus.
-* **Wood → Plant** should need no explanation. This is basically the Pokemon "Grass" problem all over again. What may have tripped them up is that the Japanese (妖樹) means "tree", but the race obviously covers way more plants than just trees. I would also like some way to convey that they're evil, but I can't think of any words for "evil plant".
+* **Wood → Flora** should need no explanation. This is basically the Pokemon "Grass" problem all over again. What may have tripped them up is that the Japanese (妖樹) means "tree", but the race obviously covers way more plants than just trees (and there's the issue that the "good" plant race is already localized as "Tree"). I would also like some way to convey that they're evil, but I can't think of any words for "evil plant". Possible alternatives:
+  * "Weed" would at least somewhat convey the evilness, but makes them sound minor and pathetic when the race does contain quite powerful demons.
+  * "Toxic" would convey the evilness well, but the plant connection is weaker. "Toxic" sounds like it should encompass general gross or slime monsters as well.
+  * "Maneater" conveys evilness and has a connection to the idea of man-eating plants, but it's a weak connection.
 * **Avian → Herald**: This one I'm still workshopping. The Japanese (霊鳥) means "Spiritual Bird", which English does not have a concise term for. "Herald" is at least not just a synonym for "Bird", but its bird connection is tenuous. Really hard to think of a one-word term for this.
 * **Avatar → Eidolon**: When I hear "avatar" I just think of a human avatar, not an animal one. Probably because Western culture is so Christian, and Christianity doesn't have a lot of positive associations with animals? I'd love to just call it "Beast God" and be done with it, but character limits make that almost impossible. "Eidolon" is a big stretch, but hopefully the overlap between SMT and Final Fantasy players is enough to lean on the latter's use of the word.
 * **Wilder → Monster** because "wild" does not mean "evil" and the entire point of these things is that they're the evil counterpart to the Beast race. "Monster" hopefully better conveys that they are not to be messed with.
@@ -126,7 +126,6 @@ Additionally, the Demi-fiend's unique races were changed. Few of these are accur
 * **Fiend (DDS2) → Judge**: In Japanese Satan's title is the same word used for "the Devil", which makes no sense when he is not only a different being from Lucifer but of opposite alignment in SMT. I'm making an executive decision and giving him a completely different title that fits his actual identity.
 #### Strange Journey
 * **Awake → Awakened**. Why do the localizers love adjective races so much?
-* **Meta → Metahuman**, ditto.
 * **Empty → Void**. It keeps happening! The Japanese is "Nihilistic Great Spirit" (虚大霊) for the curious, so "Nihilist" would also be valid.
 * **Soil → Terran**. The *one* time they manage a noun name and it's this mess. The Japanese is "Great Person of the Earth" (大地人).
 * **Root → Almighty** because the Japanese is the same term that's localized as "Godly" in the rest of the series. What were the SJ localizers smoking, seriously?
