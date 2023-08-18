@@ -1,0 +1,106 @@
+//GAME NAME:		Shin Megami Tensei: Devil Survivor
+//Extracted from arm9.bin
+//BLOCK #000 NAME:		Races
+
+//POINTER #0 @ $15553C - STRING #0 @ $155444
+
+Ｈｕｍａｎ<END>
+//POINTER #1 @ $155540 - STRING #1 @ $1554E4
+
+Ｍｅｇａｍｉ<END>
+//POINTER #2 @ $155544 - STRING #2 @ $155450
+
+Ｄｅｉｔｙ<END>
+//POINTER #3 @ $155548 - STRING #3 @ $1553CC
+
+Ｖｉｌｅ<END>
+//POINTER #4 @ $15554C - STRING #4 @ $15545C
+
+Ｓｎａｋｅ<END>
+//POINTER #5 @ $155550 - STRING #5 @ $1554F4
+
+Ｄｒａｇｏｎ<END>
+//POINTER #6 @ $155554 - STRING #6 @ $155504
+
+Ｄｉｖｉｎｅ<END>
+//POINTER #7 @ $155558 - STRING #7 @ $155468
+
+Ａｖｉａｎ<END>
+//POINTER #8 @ $15555C - STRING #8 @ $1554B4
+
+Ｆａｌｌｅｎ<END>
+//POINTER #9 @ $155560 - STRING #9 @ $155474
+
+Ａｖａｔａｒ<END>
+//POINTER #10 @ $155564 - STRING #10 @ $1553E4
+
+Ｂｅａｓｔ<END>
+//POINTER #11 @ $155568 - STRING #11 @ $155484
+
+Ｗｉｌｄｅｒ<END>
+//POINTER #12 @ $15556C - STRING #12 @ $1553F0
+
+Ｇｅｎｍａ<END>
+//POINTER #13 @ $155570 - STRING #13 @ $1553FC
+
+Ｆａｉｒｙ<END>
+//POINTER #14 @ $155574 - STRING #14 @ $155494
+
+Ｔｙｒａｎｔ<END>
+//POINTER #15 @ $155578 - STRING #15 @ $1554A4
+
+Ｋｉｓｈｉｎ<END>
+//POINTER #16 @ $15557C - STRING #16 @ $155408
+
+Ｔｏｕｋｉ<END>
+//POINTER #17 @ $155580 - STRING #17 @ $1553D8
+
+Ｊａｋｉ<END>
+//POINTER #18 @ $155584 - STRING #18 @ $155414
+
+Ｆｅｍｍｅ<END>
+//POINTER #19 @ $155588 - STRING #19 @ $155514
+
+Ｅｌｅｍｅｎｔ<END>
+//POINTER #20 @ $15558C - STRING #20 @ $1554C4
+
+Ｍｉｔａｍａ<END>
+//POINTER #21 @ $155590 - STRING #21 @ $155420
+
+Ｆｉｅｎｄ<END>
+//POINTER #22 @ $155594 - STRING #22 @ $15542C
+
+Ｈｕｍａｎ<END>
+//POINTER #23 @ $155598 - STRING #23 @ $155380
+
+Ｂｅｌ<END>
+//POINTER #24 @ $15559C - STRING #24 @ $155388
+
+Ｂｅｌ<END>
+//POINTER #25 @ $1555A0 - STRING #25 @ $155398
+
+Ｂｅｌ<END>
+//POINTER #26 @ $1555A4 - STRING #26 @ $1553A0
+
+Ｂｅｌ<END>
+//POINTER #27 @ $1555A8 - STRING #27 @ $1553A8
+
+Ｂｅｌ<END>
+//POINTER #28 @ $1555AC - STRING #28 @ $155390
+
+Ｂｅｌ<END>
+//POINTER #29 @ $1555B0 - STRING #29 @ $1553B0
+
+Ｂｅｌ<END>
+//POINTER #30 @ $1555B4 - STRING #30 @ $1553B8
+
+Ｂｅｌ<END>
+//POINTER #31 @ $1555B8 - STRING #31 @ $155438
+
+Ｆｉｅｎｄ<END>
+//POINTER #32 @ $1555BC - STRING #32 @ $1553C0
+
+Ｄｅｖａ<END>
+//POINTER #33 @ $1555C0 - STRING #33 @ $1554D4
+
+Ｖｅｒｍｉｎ<END>
