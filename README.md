@@ -52,7 +52,7 @@ There are currently some problems with race names getting truncated in the fusio
 xDelta patches can be downloaded here or on Romhacking.net ([DDS1](https://www.romhacking.net/hacks/7935/), [DDS2](https://www.romhacking.net/hacks/7916/)).
 
 ### Devil Survivor
-[Working on it](https://www.romhacking.net/forum/index.php?topic=36728.msg444400#msg444400), but UI editing is required and that's going to be difficult. Help would be appreciated, but know you'll need the [Atlus Packer by CUE](https://www.romhacking.net/utilities/871/) to unpack the game's source files.
+xDelta patches can be downloaded here or on Romhacking.net (pending approval). Cartographer text dumps are provided here if you'd like to make your own edits; note that the game uses SHIFT-JIS encoding, for which a table has been provided in the root directory. (No Atlas this time, because I stupidly didn't realize Atlas would work until after I had done everything by hand.) Patches for *2* and *Overclocked* are in progress.
 
 ## Explanations
 Reasoning documentation for all the changes.
@@ -70,6 +70,7 @@ Reasoning documentation for all the changes.
 * **Godly → Almighty** because come on, this is *the* God we're talking about here. I can see why the localization used the more waffling "godly", as the Japanese is "Godly Spirit" (神霊) rather than the Japanese word for "god", but seriously. If we're supposed to believe YHVH is on a different level than all the other gods we encounter, his race name better have some oomph to it. "Almighty" has the bonuses of being a Christian term, a common epithet for Yahweh, and connection to the in-game Almighty element.
 * **Divine → Angel** & **Herald → Archangel** because that's what they are (and what they are in Japanese). I can understand why the localizers didn't translate them this way; it creates confusion with the Angel and Archangel demons, the former of which is now the absurdity that is "Angel Angel". The Japanese got around this by writing the race names in kanji and the demon names in katakana, but English has no equivalent trick. If you can think of some way to make that work in English, I'm all ears.
 * **Tyrant → Archdemon**: The Japanese (魔王) means "Demon Lord" and I felt that leaving out the "demon" part in a game about demons is a glaring oversight. I can see the reasoning here if you interpret "demon lord" as "evil lord", but come on. These are the big bad major story bosses, they need more oomph. "Archdemon" works well for this purpose, and as a bonus makes for a nice parallel with "Archangel", as the two races are of approximately equal importance.
+  * Alternate: **Archfiend**, which saves a few pixels in VWF. I don't like this because it creates a false connection with the "Fiend" race, but sometimes space limitations require it. (And, admittedly, it does sound cooler than "Archdemon".)
 * **Meta → Metahuman** should be self-explanatory.
 * **Flight → Bird** should need no explanation. Why they didn't do it that way in the first place is beyond me. "Flight" is an action, not a creature, Atlus.
 * **Wood → Flora** should need no explanation. This is basically the Pokemon "Grass" problem all over again. What may have tripped them up is that the Japanese (妖樹) means "tree", but the race obviously covers way more plants than just trees (and there's the issue that the "good" plant race is already localized as "Tree"). I would also like some way to convey that they're evil, but I can't think of any words for "evil plant". Possible alternatives:
@@ -124,6 +125,13 @@ Additionally, the Demi-fiend's unique races were changed. Few of these are accur
 * **Death → Reaper**: The Japanese is "shinigami", which is translated as "Reaper" in the rest of the series.
 * **Fury & Tyrant → God**: These are the titles for Vishnu and Shiva, respectively. They make no sense for either (Vishnu is a *preserver*, not a destroyer; Shiva is not a "demon lord"), so I just gave them the same title as Brahman since they're part of Brahman in Hindu theology.
 * **Fiend (DDS2) → Judge**: In Japanese Satan's title is the same word used for "the Devil", which makes no sense when he is not only a different being from Lucifer but of opposite alignment in SMT. I'm making an executive decision and giving him a completely different title that fits his actual identity.
+#### Devil Survivor
+* **Avatar → Mythic** (rather than Eidolon) because there's no Holy race to conflict with it and "Eidolon" was too long. (Also, most of the demons under this race are Holy in other games anyway.)
+* **Snake → Wyrm** (rather than Drake) because the demons under this race *are* genuinely snakelike (with the exception of Pendragon), so I chose the term that maintains a sense of slithery worminess.
+* **Touki → Brute** (rather than Warrior) because there's no Brute race to conflict with it and most of the demons under this race are considered Brutes in other games.
+* **Avian** remains unchanged due to the absence of other bird races.
+
+Additionally, I took a few liberties with the demon birth messages, since they're unique to each demon in Devil Survivor. Heqet introduces herself as a "beast god", Airavata as a "divine steed", and Lucifer as "king of Hell". I think this is better for the demons who don't quite fit with the established names, especially since DeSu lumps a lot of races together.
 #### Strange Journey
 * **Awake → Awakened**. Why do the localizers love adjective races so much?
 * **Empty → Void**. It keeps happening! The Japanese is "Nihilistic Great Spirit" (虚大霊) for the curious, so "Nihilist" would also be valid.
