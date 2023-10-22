@@ -30,6 +30,8 @@ One way around this would be if abbreviated versions could be substituted into c
 |Snake  |Drake    ||Night  |Nightmare ||Avian         |Herald
 |Drake  |Wyrm     || | || |
 
+Additionally, I prefer to change **Mother Harlot → Whore of Babylon** whenever possible. I'm familiar the second name but I've never heard the first outside of SMT.
+
 ## Patches
 ### SMT1
 Hit a snag due to an inability to find an English translation-compatible ROM to work with. I'd like to do the PSX version now that there's an English translation out for it, but [I can't decompress the text data.](https://forum.xentax.com/viewtopic.php?p=193294#p193294) Contact me if you know how to do so.
@@ -52,7 +54,7 @@ There are currently some problems with race names getting truncated in the fusio
 xDelta patches can be downloaded here or on Romhacking.net ([DDS1](https://www.romhacking.net/hacks/7935/), [DDS2](https://www.romhacking.net/hacks/7916/)).
 
 ### Devil Survivor
-xDelta patches can be downloaded here or on Romhacking.net (pending approval). Cartographer text dumps are provided here if you'd like to make your own edits; note that the game uses SHIFT-JIS encoding, for which a table has been provided in the root directory. (No Atlas this time, because I stupidly didn't realize Atlas would work until after I had done everything by hand.) Patches for *2* and *Overclocked* are in progress.
+xDelta patches can be downloaded here or on [Romhacking.net](https://www.romhacking.net/hacks/8008/). Cartographer text dumps are provided here if you'd like to make your own edits; note that the game uses SHIFT-JIS encoding, for which a table has been provided in the root directory. (No Atlas this time, because I stupidly didn't realize Atlas would work until after I had done everything by hand.) Patches for *2* and *Overclocked* are in progress.
 
 ## Explanations
 Reasoning documentation for all the changes.
@@ -108,7 +110,6 @@ Reasoning documentation for all the changes.
 * **Corpus → Body** means the same thing but is less pretentious.
 * **Zoa → Splinter**: I have no idea what the localizers were trying to convey, but the Japanese is "Separated Soul" (分霊) and this conveys the idea they're born of Albion, which is kind of important to understanding his gimmick.
 * **Hallel → Redeemed**: "Hallel" is a *prayer*; using it to denote a class of creatures is nonsensical. It's like they were desperately scraping the bottom of the barrel for whatever vaguely Judeo-Christian word hadn't been used already. The Japanese is "Seraph", which is also dumb because that's not what they are. I'm just going to go with "Redeemed" because that *is* what they are.
-* **Mother Harlot → Whore of Babylon**: Not a race name but it bugged me. I'm familiar the second name but I've never heard the first outside of SMT.
 
 Additionally, the Demi-fiend's unique races were changed. Few of these are accurate to the Japanese, but the Japanese is mostly word salad as far as I can tell, so I chose to focus on making their alignments clearer. I generally "punched up" the titles to give them more oomph, and tried to follow a pattern of tier 1 = followers/initiates, tier 2 = spiritual leaders, tier 3 = supernaturally empowered humans, and tier 4 = gods.
 * **Votary → Paladin** & **Soldier → Brute**
