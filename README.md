@@ -26,7 +26,7 @@ One way around this would be if abbreviated versions could be substituted into c
 |Genma  |Liminal  ||Zealot |Madman    ||Fury          |Destroyer/Omega
 |Spirit |Wraith   ||Vile   |Devil     ||UMA           |Cryptid
 |Flight |Bird     ||Divine |Angel     ||Holy          |Mythic
-|Fairy  |Fey      ||Femme  |Fatale    ||Avatar        |Eidolon
+|Fairy  |Fey      ||Femme  |Fatale    ||Avatar        |Beast God/Eidolon
 |Snake  |Drake    ||Night  |Nightmare ||Avian         |Herald
 |Drake  |Wyrm     || | || |
 
@@ -45,10 +45,13 @@ IPS patch can be downloaded here or on [Romhacking.net](https://www.romhacking.n
 There are currently some problems with race names getting truncated in the fusion screen, which only allows race names up to 8 characters. This could be fixed with a subroutine to print shortened forms, like what already exists for demon names and items, but I don't know how to do that.
 
 ### SMT3
-* **Switch**: If you have a Switch CFW that supports LayeredFS, the modded file can be downloaded here. I have also included the text files if you want to make your own edits; they can be added to the common_en file with Unity compilation programs such as UABE Avalonia.
+* **Switch**: If you have a Switch CFW that supports LayeredFS, the modded file can be downloaded here or on [GameBanana](https://gamebanana.com/mods/458671). I have also included the text files if you want to make your own edits; they can be added to the common_en file with Unity compilation programs such as UABE Avalonia.
   * The file provided here also provides more detailed Magatama info (advanced counterparts of basic Magatama are labeled as such, notes that Sophia teaches you both healing and Light magic, etc.) and capitalizes stat abbreviations, because I think it looks better that way. If only want one of the changes, you'll have to dump a fresh common_en file from your game and manually import the specific text files you want.
 * **PC**: I don't have access to this version, but I would like to mod it if possible.
 * **PS2**: I've judged this unnecessary for now given the existence of the HD version.
+
+### SMTV
+If you have a Switch CFW that supports LayeredFS, the modded file can be downloaded from [GameBanana](https://gamebanana.com/mods/477192).
 
 ### Digital Devil Saga
 xDelta patches can be downloaded here or on Romhacking.net ([DDS1](https://www.romhacking.net/hacks/7935/), [DDS2](https://www.romhacking.net/hacks/7916/)).
@@ -80,7 +83,9 @@ Reasoning documentation for all the changes.
   * "Toxic" would convey the evilness well, but the plant connection is weaker. "Toxic" sounds like it should encompass general gross or slime monsters as well.
   * "Maneater" conveys evilness and has a connection to the idea of man-eating plants, but it's a weak connection.
 * **Avian → Herald**: This one I'm still workshopping. The Japanese (霊鳥) means "Spiritual Bird", which English does not have a concise term for. "Herald" is at least not just a synonym for "Bird", but its bird connection is tenuous. Really hard to think of a one-word term for this.
-* **Avatar → Eidolon**: When I hear "avatar" I just think of a human avatar, not an animal one. Probably because Western culture is so Christian, and Christianity doesn't have a lot of positive associations with animals? I'd love to just call it "Beast God" and be done with it, but character limits make that almost impossible. "Eidolon" is a big stretch, but hopefully the overlap between SMT and Final Fantasy players is enough to lean on the latter's use of the word.
+** GameBanana user Sanda_Cracker0803 [has another proposal](https://gamebanana.com/posts/11076803): "Wonder", based on the archaic term "bird of wonder" used to refer to the phoenix. It's still a stretch, but avoid confusion with the vanilla Herald race. 
+* **Avatar → Beast God**: When I hear "avatar" I just think of a human avatar, not an animal one. Probably because Western culture is so Christian, and Christianity doesn't have a lot of positive associations with animals? The race is primarily composed of demons who are just straight-up gods, so "Beast God" seems the most accurate.
+** For games with harsher text limits, "Eidolon" is a big stretch, but hopefully the overlap between SMT and Final Fantasy players is enough to lean on the latter's use of the word.
 * **Wilder → Monster** because "wild" does not mean "evil" and the entire point of these things is that they're the evil counterpart to the Beast race. "Monster" hopefully better conveys that they are not to be messed with.
 * **Holy → Mythic** because you can't just throw out the word "holy" and expect people to assume it means "holy beast", Atlus. "Mythic" is still an adjective, which is awkward, but the jump to "mythical beast" is a much smaller one. Given the race includes things like unicorns, I feel it's also more accurate.
 * **Snake → Drake** & **Drake → Wyrm**: So, the main problem with the dragon races are that they're basically "good dragon (竜神), neutral dragon (竜王), evil dragon (邪竜)", but English doesn't have a concept of a "good dragon"; pretty much all dragon words have evil or monstrous connotations. Since the Dragon race is unilaterally comprised of Eastern dragons hopefully that minimizes confusion there, but then what do you call the others? I don't like "Snake", because the connection is less obvious in English than it is in Japanese, as snake demons and dragons are pretty distinct things here. I think "Drake" works to convey the idea of a "lesser dragon", but then we need a new name for the evil dragons. I used "Wrym" because, well, it just sounds eviler in my opinion, and it also conveys the image of a slithering snake creature, preserving that aspect.
@@ -117,6 +122,9 @@ Additionally, the Demi-fiend's unique races were changed. Few of these are accur
 * **Saint → Messiah**, **Master → Ascendant**, & **Slayer → Antichrist**
 * **Spirit → Almighty** (Japanese is the same term localized as "Godly" elsewhere), **Phenom → Deity**, & **Lord → Devil**
 * **King → King of Kings**, because "King" alone does not have the punch of conveying you are *stronger than God*. This has the double bonus of being both a Jesus reference and a logical description of the rank that requires you to be master of everything.
+#### Shin Megami Tensei V
+* **Haunt → Wraith** rather than Revenant because there's no Spirit race and they are primarily composed of demons who are classified as Spirit or Ghost in other games.
+* **Omagatoki → Witching Hour** because that's what "Omagatoki" means. I cannot fathom the balls-out confidence the SMT localizers must have to claim they can't translate a term Google Translate can, but I continue to do their job for them.
 #### Soul Hackers
 * **Great → Great Spirit** because that's literally what Manitou is and literally what the Japanese (大霊) is. Stop using adjective names, localizers, this is an enemy-exclusive race, you don't have to abbreviate it.
 #### Digital Devil Saga
