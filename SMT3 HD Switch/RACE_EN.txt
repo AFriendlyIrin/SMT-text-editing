@@ -137,7 +137,7 @@
    [31]
     0 MsgData data
      1 string msgID = "RACE_L0015"
-     1 string msgStr = "Terran"
+     1 string msgStr = "Erdgeist"
    [32]
     0 MsgData data
      1 string msgID = "RACE_L0016"
@@ -153,7 +153,7 @@
    [35]
     0 MsgData data
      1 string msgID = "RACE_L0019"
-     1 string msgStr = "Archdemon"
+     1 string msgStr = "Archfiend"
    [36]
     0 MsgData data
      1 string msgID = "RACE_L0020"
@@ -189,7 +189,7 @@
    [44]
     0 MsgData data
      1 string msgID = "RACE_L0028"
-     1 string msgStr = "Eidolon"
+     1 string msgStr = "Beast God"
    [45]
     0 MsgData data
      1 string msgID = "RACE_L0029"
@@ -205,7 +205,7 @@
    [48]
     0 MsgData data
      1 string msgID = "RACE_L0032"
-     1 string msgStr = "Forgotten"
+     1 string msgStr = "Ancient"
    [49]
     0 MsgData data
      1 string msgID = "RACE_L0033"

@@ -285,7 +285,7 @@
    [68]
     0 MsgData data
      1 string msgID = "DEVIL_L0068"
-     1 string msgStr = "Angel"
+     1 string msgStr = "Angelus"
    [69]
     0 MsgData data
      1 string msgID = "DEVIL_L0069"
@@ -725,7 +725,7 @@
    [178]
     0 MsgData data
      1 string msgID = "DEVIL_L0178"
-     1 string msgStr = "Phantom"
+     1 string msgStr = "Wraith"
    [179]
     0 MsgData data
      1 string msgID = "DEVIL_L0179"
