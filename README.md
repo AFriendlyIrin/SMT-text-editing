@@ -126,6 +126,7 @@ Additionally, the Demi-fiend's unique races were changed. Few of these are accur
 * **Haunt → Wraith** rather than Revenant because there's no Spirit race and they are primarily composed of demons who are classified as Spirit or Ghost in other games.
 * **Omagatoki → Witching Hour** because that's what "Omagatoki" means. I cannot fathom the balls-out confidence the SMT localizers must have to claim they can't translate a term Google Translate can, but I continue to do their job for them.
 * Angel's fusion message is tweaked to avoid referencing the Angel race, making it sound less clunky.
+Additionally, Lahmu's title card still introduces him as "Vile". This title is a texture rather than text, so I can't edit it without additional tools.
 #### Soul Hackers
 * **Great → Great Spirit** because that's literally what Manitou is and literally what the Japanese (大霊) is. Stop using adjective names, localizers, this is an enemy-exclusive race, you don't have to abbreviate it.
 #### Digital Devil Saga
