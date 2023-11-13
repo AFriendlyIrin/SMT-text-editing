@@ -21,11 +21,11 @@ One way around this would be if abbreviated versions could be substituted into c
 |Megami |Goddess  ||Foul   |Wretch    ||Entity/Geist  |Ancient
 |Jirae  |Erdgeist ||Wood   |Flora     ||Godly         |Almighty
 |Yoma   |Spirit   ||Wilder |Monster   ||Herald/Seraph |Archangel
-|Jaki   |Wicked   ||Tyrant |Archdemon ||Meta          |Metahuman
+|Jaki   |Wicked   ||Tyrant |Archdemon/Archfiend ||Meta          |Metahuman
 |Touki  |Warrior  ||Lady   |Mother    ||Haunt/Ghost   |Revenant
 |Genma  |Liminal  ||Zealot |Madman    ||Fury          |Destroyer/Omega
 |Spirit |Wraith   ||Vile   |Devil     ||UMA           |Cryptid
-|Flight |Bird     ||Divine |Angel     ||Holy          |Mythic
+|Flight |Bird     ||Divine |Angel     ||Holy          |Guardian
 |Fairy  |Fey      ||Femme  |Fatale    ||Avatar        |Beast God/Eidolon
 |Snake  |Drake    ||Night  |Nightmare ||Avian         |Herald
 |Drake  |Wyrm     || | || |
@@ -83,11 +83,11 @@ Reasoning documentation for all the changes.
   * "Toxic" would convey the evilness well, but the plant connection is weaker. "Toxic" sounds like it should encompass general gross or slime monsters as well.
   * "Maneater" conveys evilness and has a connection to the idea of man-eating plants, but it's a weak connection.
 * **Avian → Herald**: This one I'm still workshopping. The Japanese (霊鳥) means "Spiritual Bird", which English does not have a concise term for. "Herald" is at least not just a synonym for "Bird", but its bird connection is tenuous. Really hard to think of a one-word term for this.
-  * GameBanana user Sanda_Cracker0803 [has another proposal](https://gamebanana.com/posts/11076803): "Wonder", based on the archaic term "bird of wonder" used to refer to the phoenix. It's still a stretch, but avoid confusion with the vanilla Herald race. 
+  * GameBanana user Sanda_Cracker0803 [has another proposal](https://gamebanana.com/posts/11076803): "Wonder", based on the archaic term "bird of wonder" used to refer to the phoenix. It's still a stretch, but avoids confusion with the vanilla Herald race. 
 * **Avatar → Beast God**: When I hear "avatar" I just think of a human avatar, not an animal one. Probably because Western culture is so Christian, and Christianity doesn't have a lot of positive associations with animals? The race is primarily composed of demons who are just straight-up gods, so "Beast God" seems the most accurate.
   * For games with harsher text limits, **Eidolon** is a big stretch, but hopefully the overlap between SMT and Final Fantasy players is enough to lean on the latter's use of the word.
 * **Wilder → Monster** because "wild" does not mean "evil" and the entire point of these things is that they're the evil counterpart to the Beast race. "Monster" hopefully better conveys that they are not to be messed with.
-* **Holy → Mythic** because you can't just throw out the word "holy" and expect people to assume it means "holy beast", Atlus. "Mythic" is still an adjective, which is awkward, but the jump to "mythical beast" is a much smaller one. Given the race includes things like unicorns, I feel it's also more accurate.
+* **Holy → Guardian** because you can't just throw out the word "holy" and expect people to assume it means "holy beast", Atlus. "Guardian" isn't *uniquely* beastly, but animals are used to guard things and this conveys that they are specifically good dogs. I lengthen it to "Guardian Beast" where possible to avoid ambiguity.
 * **Snake → Drake** & **Drake → Wyrm**: So, the main problem with the dragon races are that they're basically "good dragon (竜神), neutral dragon (竜王), evil dragon (邪竜)", but English doesn't have a concept of a "good dragon"; pretty much all dragon words have evil or monstrous connotations. Since the Dragon race is unilaterally comprised of Eastern dragons hopefully that minimizes confusion there, but then what do you call the others? I don't like "Snake", because the connection is less obvious in English than it is in Japanese, as snake demons and dragons are pretty distinct things here. I think "Drake" works to convey the idea of a "lesser dragon", but then we need a new name for the evil dragons. I used "Wrym" because, well, it just sounds eviler in my opinion, and it also conveys the image of a slithering snake creature, preserving that aspect.
 * **Fairy → Fey**: The *SMT: if* translation makes this change with the reasoning that people associate "fairy" too much with the specific image of a pixie, and that "fey" is better because it's a more general word. I agree with this.
 * **Lady → Mother** is because the Japanese (地母神) means "Mother Goddess", at least according to Google, which I'm inclined to believe because that's what members of this race are. I'm honestly baffled the official localization didn't go with this, especially given how confusing "Lady" is when "Femme" also exists. I was very confused whether the two were supposed to be related the first time I played.
@@ -113,7 +113,7 @@ Reasoning documentation for all the changes.
 * **Vile → Wicked** (rather than "Devil") to preserve the grammar of the negotiation dialogue "You're talking to me knowing I'm Vile?" As there is no Jaki race in SMT3, this isn't an issue.
 * **Haunt → Undead** rather than Revenant because there's no regular Undead in SMT3.
 * **Corpus → Body** means the same thing but is less pretentious.
-* **Zoa → Splinter**: I have no idea what the localizers were trying to convey, but the Japanese is "Separated Soul" (分霊) and this conveys the idea they're born of Albion, which is kind of important to understanding his gimmick.
+* **Zoa → Splinter**: I have no idea what the localizers were trying to convey, but the Japanese is "Separated Soul" (分霊, used to refer to the division of Shinto gods when moving them between temples) and this conveys the idea they're born of Albion, which is kind of important to understanding his gimmick.
 * **Hallel → Redeemed**: "Hallel" is a *prayer*; using it to denote a class of creatures is nonsensical. It's like they were desperately scraping the bottom of the barrel for whatever vaguely Judeo-Christian word hadn't been used already. The Japanese is "Seraph", which is also dumb because that's not what they are. I'm just going to go with "Redeemed" because that *is* what they are.
 
 Additionally, the Demi-fiend's unique races were changed. Few of these are accurate to the Japanese, but the Japanese is mostly word salad as far as I can tell, so I chose to focus on making their alignments clearer. I generally "punched up" the titles to give them more oomph, and tried to follow a pattern of tier 1 = followers/initiates, tier 2 = spiritual leaders, tier 3 = supernaturally empowered humans, and tier 4 = gods.
@@ -126,6 +126,7 @@ Additionally, the Demi-fiend's unique races were changed. Few of these are accur
 * **Haunt → Wraith** rather than Revenant because there's no Spirit race and they are primarily composed of demons who are classified as Spirit or Ghost in other games.
 * **Omagatoki → Witching Hour** because that's what "Omagatoki" means. I cannot fathom the balls-out confidence the SMT localizers must have to claim they can't translate a term Google Translate can, but I continue to do their job for them.
 * Angel's fusion message is tweaked to avoid referencing the Angel race, making it sound less clunky.
+* Whore of Babylon's fusion message is slightly changed to reduce repetitiveness.
 
 Additionally, Lahmu's title card still introduces him as "Vile". This title is a texture rather than text, so I can't edit it without additional tools.
 #### Soul Hackers
