@@ -125,7 +125,7 @@ Additionally, the Demi-fiend's unique races were changed. Few of these are accur
 #### Shin Megami Tensei V
 * **Haunt → Wraith** rather than Revenant because there's no Spirit race and they are primarily composed of demons who are classified as Spirit or Ghost in other games.
 * **Matter → Ehyeh** (Hebrew for "I am" and one of the names of God). "Matter" is a technically correct translation for 事象 (which broadly just means "thing"), but I felt that was neither relevant nor logical for Lucifer. "I am" matches the (I asssume) deliberate understated simplicity of 事象 and can also be read as an echo of the phrase "I think, therefore I am," which is relevant to the game's theme of Knowledge being a fundamental part of gods' personhood. As a bonus, it matching one of God's names is very fitting for certain spoilery reasons.
-  * Credit goes to **Fishboi** on the SMT modding Discord for this suggestion.
+  * Credit goes to **@tgam2005** on the SMT modding Discord for this suggestion.
 * **Omagatoki → Witching Hour** because that's what "Omagatoki" means. I cannot fathom the balls-out confidence the SMT localizers must have to claim they can't translate a term Google Translate can, but I continue to do their job for them.
 * Angel's fusion message is tweaked to avoid referencing the Angel race, making it sound less clunky.
 * Whore of Babylon's fusion message is slightly changed to reduce repetitiveness.
