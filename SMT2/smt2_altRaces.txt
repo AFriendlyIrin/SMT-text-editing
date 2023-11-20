@@ -18,7 +18,7 @@ The One God[END]
 //POINTER #1 @ $2042BA - STRING #1 @ $205887
 
 #W16($2042BA)
-AAngel[END]
+ArAngl[END]
 
 
 //POINTER #2 @ $2042BC - STRING #2 @ $205891
@@ -48,7 +48,7 @@ Fiend[END]
 //POINTER #6 @ $2042C4 - STRING #6 @ $2058B1
 
 #W16($2042C4)
-Edolon[END]
+BstGod[END]
 
 
 //POINTER #7 @ $2042C6 - STRING #7 @ $2058B9
@@ -126,7 +126,7 @@ Beast[END]
 //POINTER #19 @ $2042DE - STRING #19 @ $20591A
 
 #W16($2042DE)
-Nitemr[END]
+Night[END]
 
 
 //POINTER #20 @ $2042E0 - STRING #20 @ $205924
@@ -138,13 +138,13 @@ Dwarf[END]
 //POINTER #21 @ $2042E2 - STRING #21 @ $20592A
 
 #W16($2042E2)
-Fey[END]
+Fae[END]
 
 
 //POINTER #22 @ $2042E4 - STRING #22 @ $205930
 
 #W16($2042E4)
-Demonid[END]
+Demonoid[END]
 
 
 //POINTER #23 @ $2042E6 - STRING #23 @ $205939
@@ -204,13 +204,13 @@ Wicked[END]
 //POINTER #32 @ $2042F8 - STRING #32 @ $205976
 
 #W16($2042F8)
-Monstr[END]
+Monster[END]
 
 
 //POINTER #33 @ $2042FA - STRING #33 @ $20597D
 
 #W16($2042FA)
-Plant[END]
+Flora[END]
 
 
 //POINTER #34 @ $2042FC - STRING #34 @ $205982
@@ -222,7 +222,7 @@ Undead[END]
 //POINTER #35 @ $2042FE - STRING #35 @ $205989
 
 #W16($2042FE)
-ADemon[END]
+ArDemn[END]
 
 
 //POINTER #36 @ $204300 - STRING #36 @ $205990
@@ -2175,13 +2175,13 @@ Fiend[END]
 //POINTER #6 @ $2042C4 - STRING #6 @ $2058B1
 
 #W24($107658)
-Eidolon[END]
+Beast God[END]
 
 
 //POINTER #7 @ $2042C6 - STRING #7 @ $2058B9
 
 #W24($10765B)
-Mythic[END]
+Mythical Beast[END]
 
 
 //POINTER #8 @ $2042C8 - STRING #8 @ $2058C0
@@ -2265,7 +2265,7 @@ Dwarf[END]
 //POINTER #21 @ $2042E2 - STRING #21 @ $20592A
 
 #W24($107685)
-Fey[END]
+Fae[END]
 
 
 //POINTER #22 @ $2042E4 - STRING #22 @ $205930
@@ -2337,7 +2337,7 @@ Monster[END]
 //POINTER #33 @ $2042FA - STRING #33 @ $20597D
 
 #W24($1076A9)
-Plant[END]
+Flora[END]
 
 
 //POINTER #34 @ $2042FC - STRING #34 @ $205982
