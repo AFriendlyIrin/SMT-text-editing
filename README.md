@@ -104,11 +104,14 @@ Reasoning documentation for all the changes.
 * **Haunt → Revenant**: This race always confused me a lot. They're different from Undead, somehow, and they're called ghosts, even though they contain obviously corporeal entities like ghouls (and literal ghosts are covered by a different race). I think the idea is that they are the same person who has come back, while Undead are a demon pupetting an unrelated corpse? If so, "Revenant" conveys that.
 * **Foul → Wretch**: As with "Holy", I don't like using adjectives as race names. I feel that "wretch" conveys a stronger image, and better communicates that they are weak, pathetic failures.
   * Alternative: **Anathema**, **Pariah**, or **Abomination**. The Japanese (外道) literally means "Wrong Path", but colloquially means heterodoxy or heresy. The idea of these things being heretical by their nature is so interesting, and that's not at all conveyed by just calling them "foul". However, I feel like "Anathema" and "Pariah" make them sound too important, which conflicts with their patheticness. "Abomination" would be perfect, but it's way too long.
+* **Famed → Hero** because someone needs to cut Atlus America off from the adjectives. (The Japanese is slightly different from that used for the "Hero" race, but there's no game where they're both present so it doesn't need to be different.)
 
 ### Game-Specific Races
 #### Shin Megami Tensei II
 * **Jirae → Dwarf** (rather than "Terran") due to the elves vs. dwarves subplot making that feel more apropos. (Note that I couldn't change the message strings, so the NPC dialogue and such will still call them "Chirei".)
 * **Godly → The One God**. This is accurate to YHVH's title in Megami Tensei II (唯一神, "Only God"), and given SMT2 both echoes this beat from MT2 and features YHVH at his most villainous, I wanted to use this instead of the less dramatic "Almighty". (Also, it's hilariously ironic given SMT2 features two YHVHs.)
+#### Shin Megami Tensei: if...
+* **Holy → Mythic** rather than Guardian to avoid confusion with the player characters' Guardians.
 #### Shin Megami Tensei III
 * **Vile → Wicked** (rather than "Devil") to preserve the grammar of the negotiation dialogue "You're talking to me knowing I'm Vile?" As there is no Jaki race in SMT3, this isn't an issue.
 * **Haunt → Undead** rather than Revenant because there's no regular Undead in SMT3.
@@ -122,6 +125,17 @@ Additionally, the Demi-fiend's unique races were changed. Few of these are accur
 * **Saint → Messiah**, **Master → Ascendant**, & **Slayer → Antichrist**
 * **Spirit → Almighty** (Japanese is the same term localized as "Godly" elsewhere), **Phenom → Deity**, & **Lord → Devil**
 * **King → King of Kings**, because "King" alone does not have the punch of conveying you are *stronger than God*. This has the double bonus of being both a Jesus reference and a logical description of the rank that requires you to be master of everything.
+#### Strange Journey
+* **Awake → Awakened**. Why do the localizers love adjective races so much?
+* **Empty → Void**. It keeps happening! The Japanese is "Nihilistic Great Spirit" (虚大霊) for the curious, so "Nihilist" would also be valid.
+* **Soil → Terran**. The *one* time they manage a noun name and it's this mess. The Japanese is "Great Person of the Earth" (大地人).
+* **Root → Almighty** because the Japanese is the same term that's localized as "Godly" in the rest of the series. What were the SJ localizers smoking, seriously?
+#### Shin Megami Tensei IV
+* **Cyber → Machine** because it's the same term used for the Machine race in SMT2 but is *not* the same term used for Soul Hackers' Cyber demons.
+* **Godly → Law** (rather than Almighty) because a) the Ancient of Days isn't YHVH directly and b) it makes for a nice parallel with Chaos Sanaat.
+  * Credit to **@alison1337** on the SMT modding Discord for this suggestion.
+#### Shin Megami Tensei IV: Apocalypse
+* **Primal → Judge**. The Japanese (原天使) means "Original Angel", which English doesn't have a concise term for. It's not terribly relevant to his character anyway, so I'm chucking it for something that is.
 #### Shin Megami Tensei V
 * **Haunt → Wraith** rather than Revenant because there's no Spirit race and they are primarily composed of demons who are classified as Spirit or Ghost in other games.
 * **Matter → Ehyeh** (Hebrew for "I am" and one of the names of God). "Matter" is a technically correct translation for 事象 (which broadly just means "thing"), but I felt that was neither relevant nor logical for Lucifer. "I am" matches the (I asssume) deliberate understated simplicity of 事象 and can also be read as an echo of the phrase "I think, therefore I am," which is relevant to the game's theme of Knowledge being a fundamental part of gods' personhood. As a bonus, it matching one of God's names is very fitting for certain spoilery reasons.
@@ -147,11 +161,6 @@ Additionally, Lahmu's title card still introduces him as "Vile". This title is a
 * **Avian** remains unchanged due to the absence of other bird races.
 
 Additionally, I took a few liberties with the demon birth messages, since they're unique to each demon in Devil Survivor. Heqet introduces herself as a "beast god", Airavata as a "divine steed", and Lucifer as "king of Hell". I think this is better for the demons who don't quite fit with the established names, especially since DeSu lumps a lot of races together.
-#### Strange Journey
-* **Awake → Awakened**. Why do the localizers love adjective races so much?
-* **Empty → Void**. It keeps happening! The Japanese is "Nihilistic Great Spirit" (虚大霊) for the curious, so "Nihilist" would also be valid.
-* **Soil → Terran**. The *one* time they manage a noun name and it's this mess. The Japanese is "Great Person of the Earth" (大地人).
-* **Root → Almighty** because the Japanese is the same term that's localized as "Godly" in the rest of the series. What were the SJ localizers smoking, seriously?
 
 ## Further Work
 I would also like to change the title image for the games to "Resurrection of the Goddess" or "Revelations", because it really grinds my gears that the title was left untranslated even though it has a direct English translation. However, this would require graphic design work, which I have no skill in.
