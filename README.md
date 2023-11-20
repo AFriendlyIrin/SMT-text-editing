@@ -28,7 +28,7 @@ One way around this would be if abbreviated versions could be substituted into c
 |Flight |Bird     ||Divine |Angel     ||Holy          |Guardian
 |Fairy  |Fae      ||Femme  |Fatale    ||Avatar        |Beast God/Eidolon
 |Snake  |Drake    ||Night  |Nightmare ||Avian         |Herald
-|Drake  |Wyrm     || | || |
+|Drake  |Wyrm     ||Famed  |Hero      || |
 
 Additionally, I prefer to change **Mother Harlot → Whore of Babylon** whenever possible. I'm familiar the second name but I've never heard the first outside of SMT.
 
