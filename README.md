@@ -26,7 +26,7 @@ One way around this would be if abbreviated versions could be substituted into c
 |Genma  |Liminal  ||Zealot |Madman    ||Fury          |Destroyer/Omega
 |Spirit |Wraith   ||Vile   |Devil     ||UMA           |Cryptid
 |Flight |Bird     ||Divine |Angel     ||Holy          |Guardian
-|Fairy  |Fey      ||Femme  |Fatale    ||Avatar        |Beast God/Eidolon
+|Fairy  |Fae      ||Femme  |Fatale    ||Avatar        |Beast God/Eidolon
 |Snake  |Drake    ||Night  |Nightmare ||Avian         |Herald
 |Drake  |Wyrm     || | || |
 
@@ -89,7 +89,7 @@ Reasoning documentation for all the changes.
 * **Wilder → Monster** because "wild" does not mean "evil" and the entire point of these things is that they're the evil counterpart to the Beast race. "Monster" hopefully better conveys that they are not to be messed with.
 * **Holy → Guardian** because you can't just throw out the word "holy" and expect people to assume it means "holy beast", Atlus. "Guardian" isn't *uniquely* beastly, but animals are used to guard things and this conveys that they are specifically good dogs. I lengthen it to "Guardian Beast" where possible to avoid ambiguity.
 * **Snake → Drake** & **Drake → Wyrm**: So, the main problem with the dragon races are that they're basically "good dragon (竜神), neutral dragon (竜王), evil dragon (邪竜)", but English doesn't have a concept of a "good dragon"; pretty much all dragon words have evil or monstrous connotations. Since the Dragon race is unilaterally comprised of Eastern dragons hopefully that minimizes confusion there, but then what do you call the others? I don't like "Snake", because the connection is less obvious in English than it is in Japanese, as snake demons and dragons are pretty distinct things here. I think "Drake" works to convey the idea of a "lesser dragon", but then we need a new name for the evil dragons. I used "Wrym" because, well, it just sounds eviler in my opinion, and it also conveys the image of a slithering snake creature, preserving that aspect.
-* **Fairy → Fey**: The *SMT: if* translation makes this change with the reasoning that people associate "fairy" too much with the specific image of a pixie, and that "fey" is better because it's a more general word. I agree with this.
+* **Fairy → Fae**: The Aeon Genesis *SMT: if* translation makes this change with the reasoning that people associate "fairy" too much with the specific image of a pixie, and that this is better because it's a more general word. I agree with this. (Unfortunately, Aeon Genesis made the mistake of using "Fey" when they meant "Fae", so I have to fix that in the *SMT: if* patch too.)
 * **Lady → Mother** is because the Japanese (地母神) means "Mother Goddess", at least according to Google, which I'm inclined to believe because that's what members of this race are. I'm honestly baffled the official localization didn't go with this, especially given how confusing "Lady" is when "Femme" also exists. I was very confused whether the two were supposed to be related the first time I played.
   * Conflict: "Mother" is also Mem Aleph (*Strange Journey*)'s race. Personally, I don't care about this too much. Not every final boss needs to have a truly unique race. If space limits permit, it might be possible to change it to "Great Mother", since she can't be obtained by the player so menu space contraints are not an issue.
 * **Fury → Destroyer** or **Omega** is to avoid confusion with the Greek Furies, which are also present in the franchise.
