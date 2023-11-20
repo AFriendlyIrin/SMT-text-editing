@@ -6,19 +6,19 @@
 #HDR($00)
 
 #ACTIVETBL(data)
-#JMP($207E00,$207FFF)
+#JMP($208DA1,$208EDE)
 
 //BLOCK #000 NAME:		Races
 
 //POINTER #0 @ $208D4B - STRING #0 @ $208DA1
-
+//Godly race unused in SMTif
 #W16($208D4B)
-God[END]
+[END]
 
 //POINTER #1 @ $208D4D - STRING #1 @ $208DA8
 
 #W16($208D4D)
-Archangel[END]
+ArAngl[END]
 
 //POINTER #2 @ $208D4F - STRING #2 @ $208DB0
 
@@ -33,7 +33,7 @@ Herald[END]
 //POINTER #4 @ $208D53 - STRING #4 @ $208DBF
 
 #W16($208D53)
-Goddess[END]
+Godess[END]
 
 //POINTER #5 @ $208D55 - STRING #5 @ $208DC7
 
@@ -43,7 +43,7 @@ Deity[END]
 //POINTER #6 @ $208D57 - STRING #6 @ $208DCE
 
 #W16($208D57)
-Beast God[END]
+BstGod[END]
 
 //POINTER #7 @ $208D59 - STRING #7 @ $208DD6
 
@@ -53,12 +53,12 @@ Mythic[END]
 //POINTER #8 @ $208D5B - STRING #8 @ $208DDC
 
 #W16($208D5B)
-Element[END]
+Elemnt[END]
 
 //POINTER #9 @ $208D5D - STRING #9 @ $208DE3
 
 #W16($208D5D)
-Destroyer[END]
+Dstryr[END]
 
 //POINTER #10 @ $208D5F - STRING #10 @ $208DE9
 
@@ -86,9 +86,9 @@ Angel[END]
 Bird[END]
 
 //POINTER #15 @ $208D69 - STRING #15 @ $208E10
-
+//Messian race unused in SMTif
 #W16($208D69)
-Messian[END]
+[END]
 
 //POINTER #16 @ $208D6B - STRING #16 @ $208E19
 
@@ -108,22 +108,22 @@ Beast[END]
 //POINTER #19 @ $208D71 - STRING #19 @ $208E2D
 
 #W16($208D71)
-Nightmare[END]
+Night[END]
 
 //POINTER #20 @ $208D73 - STRING #20 @ $208E34
 
 #W16($208D73)
-Terran[END]
+Erdgst[END]
 
 //POINTER #21 @ $208D75 - STRING #21 @ $208E3B
 
 #W16($208D75)
-Fey[END]
+Fae[END]
 
 //POINTER #22 @ $208D77 - STRING #22 @ $208E40
-
+//Demonoid race unused in SMTif
 #W16($208D77)
-Demonoid[END]
+[END]
 
 //POINTER #23 @ $208D79 - STRING #23 @ $208E4A
 
@@ -148,7 +148,7 @@ Gaian[END]
 //POINTER #27 @ $208D81 - STRING #27 @ $208E67
 
 #W16($208D81)
-Wicked[END]
+Devil[END]
 
 //POINTER #28 @ $208D83 - STRING #28 @ $208E6D
 
@@ -156,19 +156,19 @@ Wicked[END]
 Raptor[END]
 
 //POINTER #29 @ $208D85 - STRING #29 @ $208E75
-
+//Machine race unused in SMTif
 #W16($208D85)
-Machine[END]
+[END]
 
 //POINTER #30 @ $208D87 - STRING #30 @ $208E7E
-
+//Vaccine race unused in SMTif
 #W16($208D87)
-Vaccine[END]
+[END]
 
 //POINTER #31 @ $208D89 - STRING #31 @ $208E87
 
 #W16($208D89)
-Maneater[END]
+Wicked[END]
 
 //POINTER #32 @ $208D8B - STRING #32 @ $208E8D
 
@@ -188,7 +188,7 @@ Undead[END]
 //POINTER #35 @ $208D91 - STRING #35 @ $208EA3
 
 #W16($208D91)
-Devil[END]
+ArDemn[END]
 
 //POINTER #36 @ $208D93 - STRING #36 @ $208EAB
 
@@ -198,7 +198,7 @@ Wyrm[END]
 //POINTER #37 @ $208D95 - STRING #37 @ $208EB2
 
 #W16($208D95)
-Revenant[END]
+Rvnant[END]
 
 //POINTER #38 @ $208D97 - STRING #38 @ $208EB9
 
@@ -208,12 +208,12 @@ Wraith[END]
 //POINTER #39 @ $208D99 - STRING #39 @ $208EC1
 
 #W16($208D99)
-Anathema[END]
+Wretch[END]
 
 //POINTER #40 @ $208D9B - STRING #40 @ $208EC7
-
+//Virus race unused in SMTif
 #W16($208D9B)
-Virus[END]
+[END]
 
 //POINTER #41 @ $208D9D - STRING #41 @ $208ECE
 
@@ -232,7 +232,7 @@ Wargod[END]
 //POINTER #0 @ $107062 - STRING #0 @ $21AAAD
 
 #W24($107062)
-God[END]
+Almighty[END]
 
 //POINTER #1 @ $107065 - STRING #1 @ $21AAB4
 
@@ -267,7 +267,7 @@ Beast God[END]
 //POINTER #7 @ $107077 - STRING #7 @ $21AAE2
 
 #W24($107077)
-Mythic[END]
+Mythical Beast[END]
 
 //POINTER #8 @ $10707A - STRING #8 @ $21AAE8
 
@@ -332,12 +332,12 @@ Nightmare[END]
 //POINTER #20 @ $10709E - STRING #20 @ $21AB40
 
 #W24($10709E)
-Terran[END]
+Erdgeist[END]
 
 //POINTER #21 @ $1070A1 - STRING #21 @ $21AB47
 
 #W24($1070A1)
-Fey[END]
+Fae[END]
 
 //POINTER #22 @ $1070A4 - STRING #22 @ $21AB4C
 
@@ -362,12 +362,12 @@ Fatale[END]
 //POINTER #26 @ $1070B0 - STRING #26 @ $21AB6C
 
 #W24($1070B0)
-Gaian[END]
+Gaean[END]
 
 //POINTER #27 @ $1070B3 - STRING #27 @ $21AB73
 
 #W24($1070B3)
-Wicked[END]
+Devil[END]
 
 //POINTER #28 @ $1070B6 - STRING #28 @ $21AB79
 
@@ -387,7 +387,7 @@ Vaccine[END]
 //POINTER #31 @ $1070BF - STRING #31 @ $21AB93
 
 #W24($1070BF)
-Maneater[END]
+Wicked[END]
 
 //POINTER #32 @ $1070C2 - STRING #32 @ $21AB99
 
@@ -407,7 +407,7 @@ Undead[END]
 //POINTER #35 @ $1070CB - STRING #35 @ $21ABAF
 
 #W24($1070CB)
-Devil[END]
+Archdemon[END]
 
 //POINTER #36 @ $1070CE - STRING #36 @ $21ABB7
 
@@ -427,7 +427,7 @@ Wraith[END]
 //POINTER #39 @ $1070D7 - STRING #39 @ $21ABCD
 
 #W24($1070D7)
-Anathema[END]
+Wretch[END]
 
 //POINTER #40 @ $1070DA - STRING #40 @ $21ABD3
 
@@ -449,11 +449,11 @@ Goddesses, and the Amatsu.[WAIT]
 [PAGE]
 Then there's the Kishin,[LINE]
 which consist of Destroyers,[LINE]
-Mothers, Wicked, and the Kunitsu.[WAIT]
+Mothers, Devils, and the Kunitsu.[WAIT]
 [PAGE]
 The Demonic family consists of[LINE]
-Devils, Spirits, Nightmares, and[LINE]
-the Fey.[WAIT]
+Archdemons, Spirits, Nightmares,[LINE]
+and the Fae.[WAIT]
 [PAGE]
 The Angel family consists of[LINE]
 Angels, Archangels, and the Fallen.[WAIT]
@@ -465,16 +465,16 @@ The Avian family has Birds,[LINE]
 Heralds, and Raptors.[WAIT]
 [PAGE]
 The Beast family consists of Beasts,[LINE]
-Mythics, Monsters, and Beast Gods.[WAIT]
+Mythical Beasts, Monsters, and Beast Gods.[WAIT]
 [PAGE]
 The Oni consist of Fatales,[LINE]
-Brutes, Terrans, and Maneaters.[WAIT]
+Brutes, Erdgeists, and the Wicked.[WAIT]
 [PAGE]
 The Evil Spirit family has[LINE]
 Undead, Revenants, and Wraiths.[WAIT]
 [PAGE]
-And lastly the Anathema family[LINE]
-only has Anathema.[WAIT]
+And lastly the Wretch family[LINE]
+only has Wretches.[WAIT]
 [PAGE]
 Elements and Plant demons are alone[LINE]
 in their respective families.[WAIT]
@@ -494,17 +494,17 @@ We call demons that join up with[LINE]
 you "minions."[WAIT]
 [PAGE]
 The demon types that you can make[LINE]
-minions are Spirits, Nightmares, Fey,[LINE]
-Archangels, Fallen, Drakes, Fatales,[WAIT]
+minions are Spirits, Nightmares, Fae,[LINE]
+Angels, Fallen, Drakes, Fatales,[WAIT]
 [PAGE]
-Brutes, Beasts, Birds, and Terrans.[WAIT]
+Brutes, Beasts, Birds, and Erdgeists.[WAIT]
 [PAGE]
 The demons that won't become your[LINE]
-minions are Devils, Wicked,[LINE]
-Wyrms, Raptors, Monsters, Maneaters,[WAIT]
+minions are Archdemons, Devils,[LINE]
+Wyrms, Raptors, Monsters, Wicked,[WAIT]
 [PAGE]
 Plants, Undead, Revenants, Wraiths,[LINE]
-and Anathema.[WAIT]
+and Wretches.[WAIT]
 [PAGE]
 Now, those demons that you can't[LINE]
 convince to join you,[WAIT]
@@ -519,7 +519,7 @@ you create them through fusion.[WAIT]
 [PAGE]
 Those would be Deities, Goddesses,[LINE]
 Mothers, Destroyers, Dragons,[LINE]
-Beast Gods, Heralds, Mythics,[WAIT]
+Beast Gods, Heralds, Mythical Beasts,[WAIT]
 [PAGE]
 and the Amatsu and Kunitsu.[WAIT]
 [PAGE]
