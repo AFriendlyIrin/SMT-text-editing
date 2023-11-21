@@ -1,7 +1,7 @@
 //GAME NAME:		Shin Megami Tensei if... (SFC)
 
 #VAR(data, TABLE)
-#ADDTBL("../games/smtif/smtif.tbl", data)
+#ADDTBL("./tables/smtif.tbl", data)
 #SMA("LOROM00")
 #HDR($00)
 
@@ -178,7 +178,7 @@ Monster[END]
 //POINTER #33 @ $208D8D - STRING #33 @ $208E95
 
 #W16($208D8D)
-Plant[END]
+Flora[END]
 
 //POINTER #34 @ $208D8F - STRING #34 @ $208E9B
 
@@ -397,7 +397,7 @@ Monster[END]
 //POINTER #33 @ $1070C5 - STRING #33 @ $21ABA1
 
 #W24($1070C5)
-Plant[END]
+Flora[END]
 
 //POINTER #34 @ $1070C8 - STRING #34 @ $21ABA7
 
@@ -476,7 +476,7 @@ Undead, Revenants, and Wraiths.[WAIT]
 And lastly the Wretch family[LINE]
 only has Wretches.[WAIT]
 [PAGE]
-Elements and Plant demons are alone[LINE]
+Elements and Flora demons are alone[LINE]
 in their respective families.[WAIT]
 [PAGE]
 That about sums it up for demon[LINE]
@@ -503,7 +503,7 @@ The demons that won't become your[LINE]
 minions are Archdemons, Devils,[LINE]
 Wyrms, Raptors, Monsters, Wicked,[WAIT]
 [PAGE]
-Plants, Undead, Revenants, Wraiths,[LINE]
+Flora, Undead, Revenants, Wraiths,[LINE]
 and Wretches.[WAIT]
 [PAGE]
 Now, those demons that you can't[LINE]
