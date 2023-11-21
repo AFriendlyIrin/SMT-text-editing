@@ -1,7 +1,7 @@
 #VAR(dialogue, TABLE)
-#ADDTBL("../games/smt2/smt2_16bit.tbl", dialogue)
+#ADDTBL("./tables/smt2_16bit.tbl", dialogue)
 #VAR(data, TABLE)
-#ADDTBL("../games/smt2/smt2_systext.tbl", data)
+#ADDTBL("./tables/smt2_systext.tbl", data)
 #SMA("LOROM00")
 #HDR($00)
 
@@ -804,7 +804,7 @@ Archangel[END]
 //POINTER #89 @ $2043C0 - STRING #89 @ $205CB8
 
 #W16($2043C0)
-Angel[END]
+Angelus[END]
 
 
 //POINTER #90 @ $2043C2 - STRING #90 @ $205CBE
@@ -2112,7 +2112,7 @@ Toki no Okina[END]
 //POINTER #307 @ $204574 - STRING #307 @ $2063BF
 
 #W16($204574)
-Hell’s Angel[END]
+Hell Biker[END]
 
 
 //POINTER #308 @ $204576 - STRING #308 @ $2063CC
