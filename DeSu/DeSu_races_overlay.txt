@@ -1,0 +1,189 @@
+#VAR(text, TABLE)
+#ADDTBL("./tables/shiftjis.tbl", text)
+#ACTIVETBL(text)
+#VAR(Ptr, CUSTOMPOINTER)
+#CREATEPTR(Ptr, "LINEAR", $-219D7E0, 32)
+#VAR(PtrTbl, POINTERTABLE)
+#PTRTBL(PtrTbl, $14B70, 4, Ptr)
+#AUTOWRITE(PtrTbl, "<END>")
+
+#HDR($00)
+
+#JMP($16694,$1685C)
+
+//BLOCK #026 NAME:		Text.26
+
+//POINTER #0 @ $14B70 - STRING #0 @ $1681C
+
+#W32($14B70)
+Ｓｅａｒｃｈ<END>
+
+//POINTER #1 @ $14B74 - STRING #1 @ $166D4
+
+#W32($14B74)
+Ｒａｃｅ<END>
+
+//POINTER #2 @ $14B78 - STRING #2 @ $167A0
+
+#W32($14B78)
+Ｏｗｎｅｄ<END>
+
+//POINTER #3 @ $14B7C - STRING #3 @ $16788
+
+#W32($14B7C)
+Ｐａｒｔｙ<END>
+
+//POINTER #4 @ $14B80 - STRING #4 @ $16794
+
+#W32($14B80)
+Ｋｎｏｗｎ<END>
+
+//POINTER #5 @ $14B84 - STRING #5 @ $16710
+
+#W32($14B84)
+Ｎｏｎｅ<END>
+
+//POINTER #6 @ $14B88 - STRING #6 @ $166E0
+
+#W32($14B88)
+Ｎｏｎｅ<END>
+
+//POINTER #7 @ $14B8C - STRING #7 @ $166A4
+
+#W32($14B8C)
+Ｎｏｎｅ<END>
+
+//POINTER #8 @ $14B90 - STRING #8 @ $166BC
+
+#W32($14B90)
+Ｎｏｎｅ<END>
+
+//POINTER #9 @ $14B94 - STRING #9 @ $1669C
+
+#W32($14B94)
+Ｙｅｓ<END>
+
+//POINTER #10 @ $14B98 - STRING #10 @ $16694
+
+#W32($14B98)
+Ｎｏ<END>
+
+//POINTER #11 @ $14B9C - STRING #11 @ $16704
+
+#W32($14B9C)
+Ｎｏｎｅ<END>
+
+//POINTER #12 @ $14BA0 - STRING #12 @ $167BC
+
+#W32($14BA0)
+Ｇｏｄｄｅｓｓ<END>
+
+//POINTER #13 @ $14BA4 - STRING #13 @ $16758
+
+#W32($14BA4)
+Ｄｅｉｔｙ<END>
+
+//POINTER #14 @ $14BA8 - STRING #14 @ $166EC
+
+#W32($14BA8)
+Ｄｅｖｉｌ<END>
+
+//POINTER #15 @ $14BAC - STRING #15 @ $16764
+
+#W32($14BAC)
+Ｗｙｒｍ<END>
+
+//POINTER #16 @ $14BB0 - STRING #16 @ $167FC
+
+#W32($14BB0)
+Ｄｒａｇｏｎ<END>
+
+//POINTER #17 @ $14BB4 - STRING #17 @ $1680C
+
+#W32($14BB4)
+Ａｎｇｅｌ<END>
+
+//POINTER #18 @ $14BB8 - STRING #18 @ $16770
+
+#W32($14BB8)
+Ａｖｉａｎ<END>
+
+//POINTER #19 @ $14BBC - STRING #19 @ $1682C
+
+#W32($14BBC)
+Ｆａｌｌｅｎ<END>
+
+//POINTER #20 @ $14BC0 - STRING #20 @ $1683C
+
+#W32($14BC0)
+Ｍｙｔｈｉｃ<END>
+
+//POINTER #21 @ $14BC4 - STRING #21 @ $16728
+
+#W32($14BC4)
+Ｂｅａｓｔ<END>
+
+//POINTER #22 @ $14BC8 - STRING #22 @ $167AC
+
+#W32($14BC8)
+Ｍｏｎｓｔｅｒ<END>
+
+//POINTER #23 @ $14BCC - STRING #23 @ $16740
+
+#W32($14BCC)
+Ｌｉｍｉｎａｌ<END>
+
+//POINTER #24 @ $14BD0 - STRING #24 @ $1674C
+
+#W32($14BD0)
+Ｆａｅ<END>
+
+//POINTER #25 @ $14BD4 - STRING #25 @ $167CC
+
+#W32($14BD4)
+Ａｒｃｈｆｉｅｎｄ<END>
+
+//POINTER #26 @ $14BD8 - STRING #26 @ $167DC
+
+#W32($14BD8)
+Ｋｉｓｈｉｎ<END>
+
+//POINTER #27 @ $14BDC - STRING #27 @ $1677C
+
+#W32($14BDC)
+Ｂｒｕｔｅ<END>
+
+//POINTER #28 @ $14BE0 - STRING #28 @ $166C8
+
+#W32($14BE0)
+Ｗｉｃｋｅｄ<END>
+
+//POINTER #29 @ $14BE4 - STRING #29 @ $16734
+
+#W32($14BE4)
+Ｆａｔａｌｅ<END>
+
+//POINTER #30 @ $14BE8 - STRING #30 @ $1684C
+
+#W32($14BE8)
+Ｅｌｅｍｅｎｔ<END>
+
+//POINTER #31 @ $14BEC - STRING #31 @ $167EC
+
+#W32($14BEC)
+Ｍｉｔａｍａ<END>
+
+//POINTER #32 @ $14BF0 - STRING #32 @ $166B0
+
+#W32($14BF0)
+Ｎｏｎｅ<END>
+
+//POINTER #33 @ $14BF4 - STRING #33 @ $166F8
+
+#W32($14BF4)
+Ｒａｃｅ<END>
+
+//POINTER #34 @ $14BF8 - STRING #34 @ $1671C
+
+#W32($14BF8)
+Ｎｏｎｅ<END>
