@@ -57,7 +57,7 @@ If you have a Switch CFW that supports LayeredFS, the modded file can be downloa
 xDelta patches can be downloaded here or on Romhacking.net ([DDS1](https://www.romhacking.net/hacks/7935/), [DDS2](https://www.romhacking.net/hacks/7916/)).
 
 ### Devil Survivor
-xDelta patches can be downloaded here or on [Romhacking.net](https://www.romhacking.net/hacks/8008/). Cartographer text dumps are provided here if you'd like to make your own edits; note that the game uses SHIFT-JIS encoding, for which a table has been provided in the root directory. (No Atlas this time, because I stupidly didn't realize Atlas would work until after I had done everything by hand.) Patches for *2* and *Overclocked* are in progress.
+xDelta patches can be downloaded here or on [Romhacking.net](https://www.romhacking.net/hacks/8008/). Atlas command files are provided here if you'd like to make your own edits; note that the game uses SHIFT-JIS encoding, for which a table has been provided in the root directory. Patches for *2* and *Overclocked* are in progress.
 
 ## Explanations
 Reasoning documentation for all the changes.
